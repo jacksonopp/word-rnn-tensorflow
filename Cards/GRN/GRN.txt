@@ -1,0 +1,1802 @@
+Name: Affectionate Indrik
+Mana Cost: {5}{G}
+Card Type: Creature — Beast
+Text: When Affectionate Indrik enters the battlefield, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)
+ 
+
+Name: Arboretum Elemental
+Mana Cost: {7}{G}{G}
+Card Type: Creature — Elemental
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+ 
+
+Name: Arclight Phoenix
+Mana Cost: {3}{R}
+Card Type: Creature — Phoenix
+Text: Flying, haste
+At the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return Arclight Phoenix from your graveyard to the battlefield.
+ 
+
+Name: Artful Takedown
+Mana Cost: {2}{U}{B}
+Card Type: Instant
+Text: Choose one or both —
+• Tap target creature.
+• Target creature gets -2/-4 until end of turn.
+ 
+
+Name: Assassin's Trophy
+Mana Cost: {B}{G}
+Card Type: Instant
+Text: Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+ 
+
+Name: Assemble
+Mana Cost: {4}{G}{W}
+Card Type: Instant
+Text: Create three 2/2 green and white Elf Knight creature tokens with vigilance.
+ 
+
+Name: Assure
+Mana Cost: {G/W}{G/W}
+Card Type: Instant
+Text: Put a +1/+1 counter on target creature. That creature gains indestructible until end of turn.
+ 
+
+Name: Attendant of Vraska
+Mana Cost: {1}{B}{G}
+Card Type: Creature — Zombie Soldier
+Text: When Attendant of Vraska dies, if you control a Vraska planeswalker, you gain life equal to Attendant of Vraska's power.
+ 
+
+Name: Aurelia, Exemplar of Justice
+Mana Cost: {2}{R}{W}
+Card Type: Legendary Creature — Angel
+Text: Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, choose up to one target creature you control. Until end of turn, that creature gets +2/+0, gains trample if it's red, and gains vigilance if it's white.
+ 
+
+Name: Barging Sergeant
+Mana Cost: {4}{R}
+Card Type: Creature — Minotaur Soldier
+Text: Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+ 
+
+Name: Barrier of Bones
+Mana Cost: {B}
+Card Type: Creature — Skeleton Wall
+Text: Defender
+When Barrier of Bones enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+ 
+
+Name: Bartizan Bats
+Mana Cost: {3}{B}
+Card Type: Creature — Bat
+Text: Flying
+ 
+
+Name: Beacon Bolt
+Mana Cost: {1}{U}{R}
+Card Type: Sorcery
+Text: Beacon Bolt deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Beamsplitter Mage
+Mana Cost: {U}{R}
+Card Type: Creature — Vedalken Wizard
+Text: Whenever you cast an instant or sorcery spell that targets only Beamsplitter Mage, if you control one or more other creatures that spell could target, choose one of those creatures. Copy that spell. The copy targets the chosen creature.
+ 
+
+Name: Beast Whisperer
+Mana Cost: {2}{G}{G}
+Card Type: Creature — Elf Druid
+Text: Whenever you cast a creature spell, draw a card.
+ 
+
+Name: Blade Instructor
+Mana Cost: {2}{W}
+Card Type: Creature — Human Soldier
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+ 
+
+Name: Blood Operative
+Mana Cost: {1}{B}{B}
+Card Type: Creature — Vampire Assassin
+Text: Lifelink
+When Blood Operative enters the battlefield, you may exile target card from a graveyard.
+Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 life. If you do, return Blood Operative to your hand.
+ 
+
+Name: Book Devourer
+Mana Cost: {5}{R}
+Card Type: Creature — Beast
+Text: Trample
+Whenever Book Devourer deals combat damage to a player, you may discard all the cards in your hand. If you do, draw that many cards.
+ 
+
+Name: Boros Challenger
+Mana Cost: {R}{W}
+Card Type: Creature — Human Soldier
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{2}{R}{W}: Boros Challenger gets +1/+1 until end of turn.
+ 
+
+Name: Boros Guildgate
+Mana Cost: 
+
+Name: Boros Guildgate
+Mana Cost: 
+
+Name: Boros Locket
+Mana Cost: {3}
+Card Type: Artifact
+Text: {T}: Add {R} or {W}.
+{R/W}{R/W}{R/W}{R/W}, {T}, Sacrifice Boros Locket: Draw two cards.
+ 
+
+Name: Bounty Agent
+Mana Cost: {1}{W}
+Card Type: Creature — Human Soldier
+Text: Vigilance
+{T}, Sacrifice Bounty Agent: Destroy target legendary permanent that's an artifact, creature, or enchantment.
+ 
+
+Name: Bounty of Might
+Mana Cost: {4}{G}{G}
+Card Type: Instant
+Text: Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.
+ 
+
+Name: Burglar Rat
+Mana Cost: {1}{B}
+Card Type: Creature — Rat
+Text: When Burglar Rat enters the battlefield, each opponent discards a card.
+ 
+
+Name: Camaraderie
+Mana Cost: {4}{G}{W}
+Card Type: Sorcery
+Text: You gain X life and draw X cards, where X is the number of creatures you control. Creatures you control get +1/+1 until end of turn.
+ 
+
+Name: Candlelight Vigil
+Mana Cost: {3}{W}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +3/+2 and has vigilance.
+ 
+
+Name: Capture Sphere
+Mana Cost: {3}{U}
+Card Type: Enchantment — Aura
+Text: Flash
+Enchant creature
+When Capture Sphere enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+ 
+
+Name: Centaur Peacemaker
+Mana Cost: {1}{G}{W}
+Card Type: Creature — Centaur Cleric
+Text: When Centaur Peacemaker enters the battlefield, each player gains 4 life.
+ 
+
+Name: Chamber Sentry
+Mana Cost: {X}
+Card Type: Artifact Creature — Construct
+Text: Chamber Sentry enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+{X}, {T}, Remove X +1/+1 counters from Chamber Sentry: It deals X damage to any target.
+{W}{U}{B}{R}{G}: Return Chamber Sentry from your graveyard to your hand.
+ 
+
+Name: Chance for Glory
+Mana Cost: {1}{R}{W}
+Card Type: Instant
+Text: Creatures you control gain indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+ 
+
+Name: Charnel Troll
+Mana Cost: {1}{B}{G}
+Card Type: Creature — Troll
+Text: Trample
+At the beginning of your upkeep, exile a creature card from your graveyard. If you do, put a +1/+1 counter on Charnel Troll. Otherwise, sacrifice it.
+{B}{G}, Discard a creature card: Put a +1/+1 counter on Charnel Troll.
+ 
+
+Name: Chemister's Insight
+Mana Cost: {3}{U}
+Card Type: Instant
+Text: Draw two cards.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Child of Night
+Mana Cost: {1}{B}
+Card Type: Creature — Vampire
+Text: Lifelink
+ 
+
+Name: Chromatic Lantern
+Mana Cost: {3}
+Card Type: Artifact
+Text: Lands you control have "{T}: Add one mana of any color."
+{T}: Add one mana of any color.
+ 
+
+Name: Circuitous Route
+Mana Cost: {3}{G}
+Card Type: Sorcery
+Text: Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library.
+ 
+
+Name: Citywatch Sphinx
+Mana Cost: {5}{U}
+Card Type: Creature — Sphinx
+Text: Flying
+When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+ 
+
+Name: Citywide Bust
+Mana Cost: {1}{W}{W}
+Card Type: Sorcery
+Text: Destroy all creatures with toughness 4 or greater.
+ 
+
+Name: Collar the Culprit
+Mana Cost: {3}{W}
+Card Type: Instant
+Text: Destroy target creature with toughness 4 or greater.
+ 
+
+Name: Command the Storm
+Mana Cost: {4}{R}
+Card Type: Instant
+Text: Command the Storm deals 5 damage to target creature.
+ 
+
+Name: Conclave Cavalier
+Mana Cost: {G}{G}{W}{W}
+Card Type: Creature — Centaur Knight
+Text: Vigilance
+When Conclave Cavalier dies, create two 2/2 green and white Elf Knight creature tokens with vigilance.
+ 
+
+Name: Conclave Guildmage
+Mana Cost: {G}{W}
+Card Type: Creature — Elf Cleric
+Text: {G}, {T}: Creatures you control gain trample until end of turn.
+{5}{W}, {T}: Create a 2/2 green and white Elf Knight creature token with vigilance.
+ 
+
+Name: Conclave Tribunal
+Mana Cost: {3}{W}
+Card Type: Enchantment
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Conclave Tribunal enters the battlefield, exile target nonland permanent an opponent controls until Conclave Tribunal leaves the battlefield.
+ 
+
+Name: Concoct
+Mana Cost: {3}{U}{B}
+Card Type: Sorcery
+Text: Surveil 3, then return a creature card from your graveyard to the battlefield.
+ 
+
+Name: Connive
+Mana Cost: {2}{U/B}{U/B}
+Card Type: Sorcery
+Text: Gain control of target creature with power 2 or less.
+ 
+
+Name: Cosmotronic Wave
+Mana Cost: {3}{R}
+Card Type: Sorcery
+Text: Cosmotronic Wave deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn.
+ 
+
+Name: Crackling Drake
+Mana Cost: {U}{U}{R}{R}
+Card Type: Creature — Drake
+Text: Flying
+Crackling Drake's power is equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+When Crackling Drake enters the battlefield, draw a card.
+ 
+
+Name: Creeping Chill
+Mana Cost: {3}{B}
+Card Type: Sorcery
+Text: Creeping Chill deals 3 damage to each opponent and you gain 3 life.
+When Creeping Chill is put into your graveyard from your library, you may exile it. If you do, Creeping Chill deals 3 damage to each opponent and you gain 3 life.
+ 
+
+Name: Crush Contraband
+Mana Cost: {3}{W}
+Card Type: Instant
+Text: Choose one or both —
+• Exile target artifact.
+• Exile target enchantment.
+ 
+
+Name: Crushing Canopy
+Mana Cost: {2}{G}
+Card Type: Instant
+Text: Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.
+ 
+
+Name: Darkblade Agent
+Mana Cost: {1}{U}{B}
+Card Type: Creature — Human Assassin
+Text: As long as you've surveilled this turn, Darkblade Agent has deathtouch and "Whenever this creature deals combat damage to a player, you draw a card."
+ 
+
+Name: Dawn of Hope
+Mana Cost: {1}{W}
+Card Type: Enchantment
+Text: Whenever you gain life, you may pay {2}. If you do, draw a card.
+{3}{W}: Create a 1/1 white Soldier creature token with lifelink.
+ 
+
+Name: Dazzling Lights
+Mana Cost: {U}
+Card Type: Instant
+Text: Target creature gets -3/-0 until end of turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+ 
+
+Name: Dead Weight
+Mana Cost: {B}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets -2/-2.
+ 
+
+Name: Deadly Visit
+Mana Cost: {3}{B}{B}
+Card Type: Sorcery
+Text: Destroy target creature.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Deafening Clarion
+Mana Cost: {1}{R}{W}
+Card Type: Sorcery
+Text: Choose one or both —
+• Deafening Clarion deals 3 damage to each creature.
+• Creatures you control gain lifelink until end of turn.
+ 
+
+Name: Demotion
+Mana Cost: {W}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature can't block, and its activated abilities can't be activated.
+ 
+
+Name: Devious Cover-Up
+Mana Cost: {2}{U}{U}
+Card Type: Instant
+Text: Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to four target cards from your graveyard into your library.
+ 
+
+Name: Devkarin Dissident
+Mana Cost: {1}{G}
+Card Type: Creature — Elf Warrior
+Text: {4}{G}: Devkarin Dissident gets +2/+2 until end of turn.
+ 
+
+Name: Dimir Guildgate
+Mana Cost: 
+
+Name: Dimir Guildgate
+Mana Cost: 
+
+Name: Dimir Informant
+Mana Cost: {2}{U}
+Card Type: Creature — Human Rogue
+Text: When Dimir Informant enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+ 
+
+Name: Dimir Locket
+Mana Cost: {3}
+Card Type: Artifact
+Text: {T}: Add {U} or {B}.
+{U/B}{U/B}{U/B}{U/B}, {T}, Sacrifice Dimir Locket: Draw two cards.
+ 
+
+Name: Dimir Spybug
+Mana Cost: {U}{B}
+Card Type: Creature — Insect
+Text: Flying
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever you surveil, put a +1/+1 counter on Dimir Spybug.
+ 
+
+Name: Direct Current
+Mana Cost: {1}{R}{R}
+Card Type: Sorcery
+Text: Direct Current deals 2 damage to any target.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Dispersal
+Mana Cost: {3}{U}{B}
+Card Type: Instant
+Text: Each opponent returns a nonland permanent they control with the highest converted mana cost among permanents they control to its owner's hand, then discards a card.
+ 
+
+Name: Discovery
+Mana Cost: {1}{U/B}
+Card Type: Sorcery
+Text: Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Disdainful Stroke
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Counter target spell with converted mana cost 4 or greater.
+ 
+
+Name: Disinformation Campaign
+Mana Cost: {1}{U}{B}
+Card Type: Enchantment
+Text: When Disinformation Campaign enters the battlefield, you draw a card and each opponent discards a card.
+Whenever you surveil, return Disinformation Campaign to its owner's hand.
+ 
+
+Name: District Guide
+Mana Cost: {2}{G}
+Card Type: Creature — Elf Scout
+Text: When District Guide enters the battlefield, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.
+ 
+
+Name: Divine Visitation
+Mana Cost: {3}{W}{W}
+Card Type: Enchantment
+Text: If one or more creature tokens would be created under your control, that many 4/4 white Angel creature tokens with flying and vigilance are created instead.
+ 
+
+Name: Doom Whisperer
+Mana Cost: {3}{B}{B}
+Card Type: Creature — Nightmare Demon
+Text: Flying, trample
+Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+ 
+
+Name: Douser of Lights
+Mana Cost: {4}{B}
+Card Type: Creature — Horror
+Text: 
+
+Name: Dream Eater
+Mana Cost: {4}{U}{U}
+Card Type: Creature — Nightmare Sphinx
+Text: Flash
+Flying
+When Dream Eater enters the battlefield, surveil 4. When you do, you may return target nonland permanent an opponent controls to its owner's hand. (To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Drowned Secrets
+Mana Cost: {1}{U}
+Card Type: Enchantment
+Text: Whenever you cast a blue spell, target player puts the top two cards of their library into their graveyard.
+ 
+
+Name: Electrostatic Field
+Mana Cost: {1}{R}
+Card Type: Creature — Wall
+Text: Defender
+Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent.
+ 
+
+Name: Emmara, Soul of the Accord
+Mana Cost: {G}{W}
+Card Type: Legendary Creature — Elf Cleric
+Text: Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white Soldier creature token with lifelink.
+ 
+
+Name: Enhanced Surveillance
+Mana Cost: {1}{U}
+Card Type: Enchantment
+Text: You may look at an additional two cards each time you surveil.
+Exile Enhanced Surveillance: Shuffle your graveyard into your library.
+ 
+
+Name: Erratic Cyclops
+Mana Cost: {3}{R}
+Card Type: Creature — Cyclops Shaman
+Text: Trample
+Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's converted mana cost.
+ 
+
+Name: Erstwhile Trooper
+Mana Cost: {1}{B}{G}
+Card Type: Creature — Zombie Soldier
+Text: Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.
+ 
+
+Name: Etrata, the Silencer
+Mana Cost: {2}{U}{B}
+Card Type: Legendary Creature — Vampire Assassin
+Text: Etrata, the Silencer can't be blocked.
+Whenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata's owner shuffles Etrata into their library.
+ 
+
+Name: Explosion
+Mana Cost: {X}{U}{U}{R}{R}
+Card Type: Instant
+Text: Explosion deals X damage to any target. Target player draws X cards.
+ 
+
+Name: Expansion
+Mana Cost: {U/R}{U/R}
+Card Type: Instant
+Text: Copy target instant or sorcery spell with converted mana cost 4 or less. You may choose new targets for the copy.
+ 
+
+Name: Experimental Frenzy
+Mana Cost: {3}{R}
+Card Type: Enchantment
+Text: You may look at the top card of your library any time.
+You may play the top card of your library.
+You can't play cards from your hand.
+{3}{R}: Destroy Experimental Frenzy.
+ 
+
+Name: Fearless Halberdier
+Mana Cost: {2}{R}
+Card Type: Creature — Human Warrior
+Text: 
+
+Name: Finality
+Mana Cost: {4}{B}{G}
+Card Type: Sorcery
+Text: You may put two +1/+1 counters on a creature you control. Then all creatures get -4/-4 until end of turn.
+ 
+
+Name: Find
+Mana Cost: {B/G}{B/G}
+Card Type: Sorcery
+Text: Return up to two target creature cards from your graveyard to your hand.
+ 
+
+Name: Fire Urchin
+Mana Cost: {1}{R}
+Card Type: Creature — Elemental
+Text: Trample
+Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until end of turn.
+ 
+
+Name: Firemind's Research
+Mana Cost: {U}{R}
+Card Type: Enchantment
+Text: Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
+{1}{U}, Remove two charge counters from Firemind's Research: Draw a card.
+{1}{R}, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.
+ 
+
+Name: Flight of Equenauts
+Mana Cost: {7}{W}
+Card Type: Creature — Human Knight
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Flying
+ 
+
+Name: Flourish
+Mana Cost: {4}{G}{W}
+Card Type: Sorcery
+Text: Creatures you control get +2/+2 until end of turn.
+ 
+
+Name: Flower
+Mana Cost: {G/W}
+Card Type: Sorcery
+Text: Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle your library.
+ 
+
+Name: Forest
+Mana Cost: 
+
+Name: Fresh-Faced Recruit
+Mana Cost: {1}{R/W}
+Card Type: Creature — Human Soldier
+Text: As long as it's your turn, Fresh-Faced Recruit has first strike.
+ 
+
+Name: Garrison Sergeant
+Mana Cost: {3}{R}{W}
+Card Type: Creature — Viashino Soldier
+Text: Garrison Sergeant has double strike as long as you control a Gate.
+ 
+
+Name: Gatekeeper Gargoyle
+Mana Cost: {6}
+Card Type: Artifact Creature — Gargoyle
+Text: Flying
+Gatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for each Gate you control.
+ 
+
+Name: Gateway Plaza
+Mana Cost: 
+
+Name: Generous Stray
+Mana Cost: {2}{G}
+Card Type: Creature — Cat
+Text: When Generous Stray enters the battlefield, draw a card.
+ 
+
+Name: Gird for Battle
+Mana Cost: {W}
+Card Type: Sorcery
+Text: Put a +1/+1 counter on each of up to two target creatures.
+ 
+
+Name: Glaive of the Guildpact
+Mana Cost: {2}
+Card Type: Artifact — Equipment
+Text: Equipped creature gets +1/+0 for each Gate you control and has vigilance and menace. (A creature with menace can't be blocked except by two or more creatures.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+ 
+
+Name: Glowspore Shaman
+Mana Cost: {B}{G}
+Card Type: Creature — Elf Shaman
+Text: When Glowspore Shaman enters the battlefield, put the top three cards of your library into your graveyard. You may put a land card from your graveyard on top of your library.
+ 
+
+Name: Goblin Banneret
+Mana Cost: {R}
+Card Type: Creature — Goblin Soldier
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{1}{R}: Goblin Banneret gets +2/+0 until end of turn.
+ 
+
+Name: Goblin Cratermaker
+Mana Cost: {1}{R}
+Card Type: Creature — Goblin Warrior
+Text: {1}, Sacrifice Goblin Cratermaker: Choose one —
+• Goblin Cratermaker deals 2 damage to target creature.
+• Destroy target colorless nonland permanent.
+ 
+
+Name: Goblin Electromancer
+Mana Cost: {U}{R}
+Card Type: Creature — Goblin Wizard
+Text: Instant and sorcery spells you cast cost {1} less to cast.
+ 
+
+Name: Goblin Locksmith
+Mana Cost: {1}{R}
+Card Type: Creature — Goblin Rogue
+Text: Whenever Goblin Locksmith attacks, creatures with defender can't block this turn.
+ 
+
+Name: Golgari Findbroker
+Mana Cost: {B}{B}{G}{G}
+Card Type: Creature — Elf Shaman
+Text: When Golgari Findbroker enters the battlefield, return target permanent card from your graveyard to your hand.
+ 
+
+Name: Golgari Guildgate
+Mana Cost: 
+
+Name: Golgari Guildgate
+Mana Cost: 
+
+Name: Golgari Locket
+Mana Cost: {3}
+Card Type: Artifact
+Text: {T}: Add {B} or {G}.
+{B/G}{B/G}{B/G}{B/G}, {T}, Sacrifice Golgari Locket: Draw two cards.
+ 
+
+Name: Golgari Raiders
+Mana Cost: {3}{G}
+Card Type: Creature — Elf Warrior
+Text: Haste
+Undergrowth — Golgari Raiders enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.
+ 
+
+Name: Grappling Sundew
+Mana Cost: {1}{G}
+Card Type: Creature — Plant
+Text: Defender, reach
+{4}{G}: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy this creature.)
+ 
+
+Name: Gravitic Punch
+Mana Cost: {3}{R}
+Card Type: Sorcery
+Text: Target creature you control deals damage equal to its power to target player.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Gruesome Menagerie
+Mana Cost: {3}{B}{B}
+Card Type: Sorcery
+Text: Choose a creature card with converted mana cost 1 in your graveyard, then do the same for creature cards with converted mana costs 2 and 3. Return those cards to the battlefield.
+ 
+
+Name: Guild Summit
+Mana Cost: {2}{U}
+Card Type: Enchantment
+Text: When Guild Summit enters the battlefield, you may tap any number of untapped Gates you control. Draw a card for each Gate tapped this way.
+Whenever a Gate enters the battlefield under your control, draw a card.
+ 
+
+Name: Guildmages' Forum
+Mana Cost: 
+
+Name: Haazda Marshal
+Mana Cost: {W}
+Card Type: Creature — Human Soldier
+Text: Whenever Haazda Marshal and at least two other creatures attack, create a 1/1 white Soldier creature token with lifelink.
+ 
+
+Name: Hammer Dropper
+Mana Cost: {2}{R}{W}
+Card Type: Creature — Giant Soldier
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+ 
+
+Name: Hatchery Spider
+Mana Cost: {5}{G}{G}
+Card Type: Creature — Spider
+Text: Reach
+Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+ 
+
+Name: Healer's Hawk
+Mana Cost: {W}
+Card Type: Creature — Bird
+Text: Flying, lifelink
+ 
+
+Name: Hellkite Whelp
+Mana Cost: {4}{R}
+Card Type: Creature — Dragon
+Text: Flying
+Whenever Hellkite Whelp attacks, it deals 1 damage to target creature defending player controls.
+ 
+
+Name: Hired Poisoner
+Mana Cost: {B}
+Card Type: Creature — Human Assassin
+Text: Deathtouch
+ 
+
+Name: Hitchclaw Recluse
+Mana Cost: {2}{G}
+Card Type: Creature — Spider
+Text: Reach (This creature can block creatures with flying.)
+ 
+
+Name: House Guildmage
+Mana Cost: {U}{B}
+Card Type: Creature — Human Wizard
+Text: {1}{U}, {T}: Target creature doesn't untap during its controller's next untap step.
+{2}{B}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Hunted Witness
+Mana Cost: {W}
+Card Type: Creature — Human
+Text: When Hunted Witness dies, create a 1/1 white Soldier creature token with lifelink.
+ 
+
+Name: Hypothesizzle
+Mana Cost: {3}{U}{R}
+Card Type: Instant
+Text: Draw two cards. Then you may discard a nonland card. When you do, Hypothesizzle deals 4 damage to target creature.
+ 
+
+Name: Impervious Greatwurm
+Mana Cost: {7}{G}{G}{G}
+Card Type: Creature — Wurm
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Indestructible
+ 
+
+Name: Inescapable Blaze
+Mana Cost: {4}{R}{R}
+Card Type: Instant
+Text: This spell can't be countered.
+Inescapable Blaze deals 6 damage to any target.
+ 
+
+Name: Inspiring Unicorn
+Mana Cost: {2}{W}{W}
+Card Type: Creature — Unicorn
+Text: Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until end of turn.
+ 
+
+Name: Intervention
+Mana Cost: {2}{R}{W}
+Card Type: Instant
+Text: Intervention deals 3 damage to any target and you gain 3 life.
+ 
+
+Name: Integrity
+Mana Cost: {R/W}
+Card Type: Instant
+Text: Target creature gets +2/+2 until end of turn.
+ 
+
+Name: Intrusive Packbeast
+Mana Cost: {4}{W}
+Card Type: Creature — Beast
+Text: Vigilance
+When Intrusive Packbeast enters the battlefield, tap up to two target creatures your opponents control.
+ 
+
+Name: Invent
+Mana Cost: {4}{U}{R}
+Card Type: Instant
+Text: Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle your library.
+ 
+
+Name: Invert
+Mana Cost: {U/R}
+Card Type: Instant
+Text: Switch the power and toughness of each of up to two target creatures until end of turn.
+ 
+
+Name: Ionize
+Mana Cost: {1}{U}{R}
+Card Type: Instant
+Text: Counter target spell. Ionize deals 2 damage to that spell's controller.
+ 
+
+Name: Ironshell Beetle
+Mana Cost: {1}{G}
+Card Type: Creature — Insect
+Text: When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.
+ 
+
+Name: Island
+Mana Cost: 
+
+Name: Izoni, Thousand-Eyed
+Mana Cost: {2}{B}{B}{G}{G}
+Card Type: Legendary Creature — Elf Shaman
+Text: Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.
+{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.
+ 
+
+Name: Izzet Guildgate
+Mana Cost: 
+
+Name: Izzet Guildgate
+Mana Cost: 
+
+Name: Izzet Locket
+Mana Cost: {3}
+Card Type: Artifact
+Text: {T}: Add {U} or {R}.
+{U/R}{U/R}{U/R}{U/R}, {T}, Sacrifice Izzet Locket: Draw two cards.
+ 
+
+Name: Join Shields
+Mana Cost: {3}{G}{W}
+Card Type: Instant
+Text: Untap all creatures you control. They gain hexproof and indestructible until end of turn. (They can't be the targets of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy them.)
+ 
+
+Name: Justice Strike
+Mana Cost: {R}{W}
+Card Type: Instant
+Text: Target creature deals damage to itself equal to its power.
+ 
+
+Name: Knight of Autumn
+Mana Cost: {1}{G}{W}
+Card Type: Creature — Dryad Knight
+Text: When Knight of Autumn enters the battlefield, choose one —
+• Put two +1/+1 counters on Knight of Autumn.
+• Destroy target artifact or enchantment.
+• You gain 4 life.
+ 
+
+Name: Kraul Foragers
+Mana Cost: {4}{G}
+Card Type: Creature — Insect Scout
+Text: Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life for each creature card in your graveyard.
+ 
+
+Name: Kraul Harpooner
+Mana Cost: {1}{G}
+Card Type: Creature — Insect Warrior
+Text: Reach
+Undergrowth — When Kraul Harpooner enters the battlefield, choose up to one target creature with flying you don't control. Kraul Harpooner gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard, then you may have Kraul Harpooner fight that creature.
+ 
+
+Name: Kraul Raider
+Mana Cost: {2}{B}
+Card Type: Creature — Insect Warrior
+Text: Menace (This creature can't be blocked except by two or more creatures.)
+ 
+
+Name: Kraul Swarm
+Mana Cost: {4}{B}
+Card Type: Creature — Insect Warrior
+Text: Flying
+{2}{B}, Discard a creature card: Return Kraul Swarm from your graveyard to your hand.
+ 
+
+Name: Lava Coil
+Mana Cost: {1}{R}
+Card Type: Sorcery
+Text: Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+ 
+
+Name: Lazav, the Multifarious
+Mana Cost: {U}{B}
+Card Type: Legendary Creature — Shapeshifter
+Text: When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{X}: Lazav, the Multifarious becomes a copy of target creature card in your graveyard with converted mana cost X, except its name is Lazav, the Multifarious, it's legendary in addition to its other types, and it has this ability.
+ 
+
+Name: League Guildmage
+Mana Cost: {U}{R}
+Card Type: Creature — Human Wizard
+Text: {3}{U}, {T}: Draw a card.
+{X}{R}, {T}: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy.
+ 
+
+Name: Leapfrog
+Mana Cost: {2}{U}
+Card Type: Creature — Frog
+Text: Leapfrog has flying as long as you've cast an instant or sorcery spell this turn.
+ 
+
+Name: Ledev Champion
+Mana Cost: {1}{G}{W}
+Card Type: Creature — Elf Knight
+Text: Whenever Ledev Champion attacks, you may tap any number of untapped creatures you control. Ledev Champion gets +1/+1 until end of turn for each creature tapped this way.
+{3}{G}{W}: Create a 1/1 white Soldier creature token with lifelink.
+ 
+
+Name: Ledev Guardian
+Mana Cost: {3}{W}
+Card Type: Creature — Human Knight
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+ 
+
+Name: Legion Guildmage
+Mana Cost: {R}{W}
+Card Type: Creature — Human Wizard
+Text: {5}{R}, {T}: Legion Guildmage deals 3 damage to each opponent.
+{2}{W}, {T}: Tap another target creature.
+ 
+
+Name: Legion Warboss
+Mana Cost: {2}{R}
+Card Type: Creature — Goblin Soldier
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able.
+ 
+
+Name: Light of the Legion
+Mana Cost: {4}{W}{W}
+Card Type: Creature — Angel
+Text: Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Light of the Legion dies, put a +1/+1 counter on each white creature you control.
+ 
+
+Name: Lotleth Giant
+Mana Cost: {6}{B}
+Card Type: Creature — Zombie Giant
+Text: Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage to target opponent for each creature card in your graveyard.
+ 
+
+Name: Loxodon Restorer
+Mana Cost: {4}{W}{W}
+Card Type: Creature — Elephant Cleric
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Loxodon Restorer enters the battlefield, you gain 4 life.
+ 
+
+Name: Luminous Bonds
+Mana Cost: {2}{W}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature can't attack or block.
+ 
+
+Name: Maniacal Rage
+Mana Cost: {1}{R}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +2/+2 and can't block.
+ 
+
+Name: March of the Multitudes
+Mana Cost: {X}{G}{W}{W}
+Card Type: Instant
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+Create X 1/1 white Soldier creature tokens with lifelink.
+ 
+
+Name: Mausoleum Secrets
+Mana Cost: {1}{B}
+Card Type: Instant
+Text: Undergrowth — Search your library for a black card with converted mana cost less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle your library.
+ 
+
+Name: Maximize Altitude
+Mana Cost: {U}
+Card Type: Sorcery
+Text: Target creature gets +1/+1 and gains flying until end of turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Maximize Velocity
+Mana Cost: {R}
+Card Type: Sorcery
+Text: Target creature gets +1/+1 and gains haste until end of turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Mephitic Vapors
+Mana Cost: {2}{B}
+Card Type: Sorcery
+Text: All creatures get -1/-1 until end of turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+ 
+
+Name: Midnight Reaper
+Mana Cost: {2}{B}
+Card Type: Creature — Zombie Knight
+Text: Whenever a nontoken creature you control dies, Midnight Reaper deals 1 damage to you and you draw a card.
+ 
+
+Name: Might of the Masses
+Mana Cost: {G}
+Card Type: Instant
+Text: Target creature gets +1/+1 until end of turn for each creature you control.
+ 
+
+Name: Mission Briefing
+Mana Cost: {U}{U}
+Card Type: Instant
+Text: Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Mnemonic Betrayal
+Mana Cost: {1}{U}{B}
+Card Type: Sorcery
+Text: Exile all cards from all opponents' graveyards. You may cast those cards this turn, and you may spend mana as though it were mana of any type to cast those spells. At the beginning of the next end step, if any of those cards remain exiled, return them to their owners' graveyards.
+Exile Mnemonic Betrayal.
+ 
+
+Name: Molderhulk
+Mana Cost: {7}{B}{G}
+Card Type: Creature — Fungus Zombie
+Text: Undergrowth — This spell costs {1} less to cast for each creature card in your graveyard.
+When Molderhulk enters the battlefield, return target land card from your graveyard to the battlefield.
+ 
+
+Name: Moodmark Painter
+Mana Cost: {2}{B}{B}
+Card Type: Creature — Human Shaman
+Text: Undergrowth — When Moodmark Painter enters the battlefield, target creature gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. (It can't blocked except by two or more creatures.)
+ 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Murmuring Mystic
+Mana Cost: {3}{U}
+Card Type: Creature — Human Wizard
+Text: Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird Illusion creature token with flying.
+ 
+
+Name: Muse Drake
+Mana Cost: {3}{U}
+Card Type: Creature — Drake
+Text: Flying
+When Muse Drake enters the battlefield, draw a card.
+ 
+
+Name: Narcomoeba
+Mana Cost: {1}{U}
+Card Type: Creature — Illusion
+Text: Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.
+ 
+
+Name: Necrotic Wound
+Mana Cost: {B}
+Card Type: Instant
+Text: Undergrowth — Target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard. If that creature would die this turn, exile it instead.
+ 
+
+Name: Never Happened
+Mana Cost: {2}{B}
+Card Type: Sorcery
+Text: Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it.
+ 
+
+Name: Nightveil Predator
+Mana Cost: {U}{U}{B}{B}
+Card Type: Creature — Vampire
+Text: Flying, deathtouch
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+ 
+
+Name: Nightveil Sprite
+Mana Cost: {1}{U}
+Card Type: Creature — Faerie Rogue
+Text: Flying
+Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+ 
+
+Name: Niv-Mizzet, Parun
+Mana Cost: {U}{U}{U}{R}{R}{R}
+Card Type: Legendary Creature — Dragon Wizard
+Text: This spell can't be countered.
+Flying
+Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target.
+Whenever a player casts an instant or sorcery spell, you draw a card.
+ 
+
+Name: Notion Rain
+Mana Cost: {1}{U}{B}
+Card Type: Sorcery
+Text: Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Nullhide Ferox
+Mana Cost: {2}{G}{G}
+Card Type: Creature — Beast
+Text: Hexproof
+You can't cast noncreature spells.
+{2}: Nullhide Ferox loses all abilities until end of turn. Any player may activate this ability.
+If a spell or ability an opponent controls causes you to discard Nullhide Ferox, put it onto the battlefield instead of putting it into your graveyard.
+ 
+
+Name: Ochran Assassin
+Mana Cost: {1}{B}{G}
+Card Type: Creature — Elf Assassin
+Text: Deathtouch
+All creatures able to block Ochran Assassin do so.
+ 
+
+Name: Omnispell Adept
+Mana Cost: {4}{U}
+Card Type: Creature — Human Wizard
+Text: {2}{U}, {T}: You may cast an instant or sorcery card from your hand without paying its mana cost.
+ 
+
+Name: Ornery Goblin
+Mana Cost: {1}{R}
+Card Type: Creature — Goblin Warrior
+Text: Whenever Ornery Goblin blocks or becomes blocked by a creature, Ornery Goblin deals 1 damage to that creature.
+ 
+
+Name: Overgrown Tomb
+Mana Cost: 
+
+Name: Pack's Favor
+Mana Cost: {2}{G}
+Card Type: Instant
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Target creature gets +3/+3 until end of turn.
+ 
+
+Name: Parhelion Patrol
+Mana Cost: {3}{W}
+Card Type: Creature — Human Knight
+Text: Flying, vigilance
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+ 
+
+Name: Passwall Adept
+Mana Cost: {1}{U}
+Card Type: Creature — Human Wizard
+Text: {2}{U}: Target creature can't be blocked this turn.
+ 
+
+Name: Pause for Reflection
+Mana Cost: {2}{G}
+Card Type: Instant
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Prevent all combat damage that would be dealt this turn.
+ 
+
+Name: Pelt Collector
+Mana Cost: {G}
+Card Type: Creature — Elf Warrior
+Text: Whenever another creature you control enters the battlefield or dies, if that creature's power is greater than Pelt Collector's, put a +1/+1 counter on Pelt Collector.
+As long as Pelt Collector has three or more +1/+1 counters on it, it has trample.
+ 
+
+Name: Pilfering Imp
+Mana Cost: {B}
+Card Type: Creature — Imp
+Text: Flying
+{1}{B}, {T}, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+ 
+
+Name: Piston-Fist Cyclops
+Mana Cost: {1}{U/R}{U/R}
+Card Type: Creature — Cyclops
+Text: Defender
+As long as you've cast an instant or sorcery spell this turn, Piston-Fist Cyclops can attack as though it didn't have defender.
+ 
+
+Name: Pitiless Gorgon
+Mana Cost: {1}{B/G}{B/G}
+Card Type: Creature — Gorgon
+Text: Deathtouch
+ 
+
+Name: Plaguecrafter
+Mana Cost: {2}{B}
+Card Type: Creature — Human Shaman
+Text: When Plaguecrafter enters the battlefield, each player sacrifices a creature or planeswalker. Each player who can't discards a card.
+ 
+
+Name: Plains
+Mana Cost: 
+
+Name: Portcullis Vine
+Mana Cost: {G}
+Card Type: Creature — Plant Wall
+Text: Defender
+{2}, {T}, Sacrifice a creature with defender: Draw a card.
+ 
+
+Name: Precision Bolt
+Mana Cost: {2}{R}
+Card Type: Sorcery
+Text: Precision Bolt deals 3 damage to any target.
+ 
+
+Name: Prey Upon
+Mana Cost: {G}
+Card Type: Sorcery
+Text: Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+ 
+
+Name: Price of Fame
+Mana Cost: {3}{B}
+Card Type: Instant
+Text: This spell costs {2} less to cast if it targets a legendary creature.
+Destroy target creature.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+ 
+
+Name: Quasiduplicate
+Mana Cost: {1}{U}{U}
+Card Type: Sorcery
+Text: Create a token that's a copy of target creature you control.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Radical Idea
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Draw a card.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Ral's Dispersal
+Mana Cost: {3}{U}{U}
+Card Type: Instant
+Text: Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+ 
+
+Name: Ral's Staticaster
+Mana Cost: {2}{U}{R}
+Card Type: Creature — Viashino Wizard
+Text: Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever Ral's Staticaster attacks, if you control a Ral planeswalker, Ral's Staticaster gets +1/+0 for each card in your hand until end of turn.
+ 
+
+Name: Ral, Caller of Storms
+Mana Cost: {4}{U}{R}
+Card Type: Legendary Planeswalker — Ral
+Text: +1: Draw a card.
+−2: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets.
+−7: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature your opponents control.
+ 
+
+Name: Ral, Izzet Viceroy
+Mana Cost: {3}{U}{R}
+Card Type: Legendary Planeswalker — Ral
+Text: +1: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+-3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+-8: You get an emblem with "Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards."
+ 
+
+Name: Rampaging Monument
+Mana Cost: {4}
+Card Type: Artifact Creature — Cleric
+Text: Trample
+Rampaging Monument enters the battlefield with three +1/+1 counters on it.
+Whenever you cast a multicolored spell, put a +1/+1 counter on Rampaging Monument.
+ 
+
+Name: Resurgence
+Mana Cost: {3}{R}{W}
+Card Type: Sorcery
+Text: Creatures you control gain first strike and vigilance until end of turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+ 
+
+Name: Response
+Mana Cost: {R/W}{R/W}
+Card Type: Instant
+Text: Response deals 5 damage to target attacking or blocking creature.
+ 
+
+Name: Rhizome Lurcher
+Mana Cost: {2}{B}{G}
+Card Type: Creature — Fungus Zombie
+Text: Undergrowth — Rhizome Lurcher enters the battlefield with a number of +1/+1 counters on it equal to the number of creature cards in your graveyard.
+ 
+
+Name: Righteous Blow
+Mana Cost: {W}
+Card Type: Instant
+Text: Righteous Blow deals 2 damage to target attacking or blocking creature.
+ 
+
+Name: Risk Factor
+Mana Cost: {2}{R}
+Card Type: Instant
+Text: Target opponent may have Risk Factor deal 4 damage to them. If that player doesn't, you draw three cards.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Ritual of Soot
+Mana Cost: {2}{B}{B}
+Card Type: Sorcery
+Text: Destroy all creatures with converted mana cost 3 or less.
+ 
+
+Name: Roc Charger
+Mana Cost: {2}{W}
+Card Type: Creature — Bird
+Text: Flying
+Whenever Roc Charger attacks, target attacking creature without flying gains flying until end of turn.
+ 
+
+Name: Rosemane Centaur
+Mana Cost: {3}{G}{W}
+Card Type: Creature — Centaur Soldier
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Vigilance
+ 
+
+Name: Rubblebelt Boar
+Mana Cost: {3}{R}
+Card Type: Creature — Boar
+Text: When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 until end of turn.
+ 
+
+Name: Runaway Steam-Kin
+Mana Cost: {1}{R}
+Card Type: Creature — Elemental
+Text: Whenever you cast a red spell, if Runaway Steam-Kin has fewer than three +1/+1 counters on it, put a +1/+1 counter on Runaway Steam-Kin.
+Remove three +1/+1 counters from Runaway Steam-Kin: Add {R}{R}{R}.
+ 
+
+Name: Sacred Foundry
+Mana Cost: 
+
+Name: Selective Snare
+Mana Cost: {X}{U}
+Card Type: Sorcery
+Text: Return X target creatures of the creature type of your choice to their owner's hand.
+ 
+
+Name: Selesnya Guildgate
+Mana Cost: 
+
+Name: Selesnya Guildgate
+Mana Cost: 
+
+Name: Selesnya Locket
+Mana Cost: {3}
+Card Type: Artifact
+Text: {T}: Add {G} or {W}.
+{G/W}{G/W}{G/W}{G/W}, {T}, Sacrifice Selesnya Locket: Draw two cards.
+ 
+
+Name: Severed Strands
+Mana Cost: {1}{B}
+Card Type: Sorcery
+Text: As an additional cost to cast this spell, sacrifice a creature.
+You gain life equal to the sacrificed creature's toughness. Destroy target creature an opponent controls.
+ 
+
+Name: Siege Wurm
+Mana Cost: {5}{G}{G}
+Card Type: Creature — Wurm
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+ 
+
+Name: Silent Dart
+Mana Cost: {1}
+Card Type: Artifact
+Text: {4}, {T}, Sacrifice Silent Dart: It deals 3 damage to target creature.
+ 
+
+Name: Sinister Sabotage
+Mana Cost: {1}{U}{U}
+Card Type: Instant
+Text: Counter target spell.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+ 
+
+Name: Skyknight Legionnaire
+Mana Cost: {1}{R}{W}
+Card Type: Creature — Human Knight
+Text: Flying, haste
+ 
+
+Name: Skyline Scout
+Mana Cost: {1}{W}
+Card Type: Creature — Human Scout
+Text: Whenever Skyline Scout attacks, you may pay {1}{W}. If you do, it gains flying until end of turn.
+ 
+
+Name: Smelt-Ward Minotaur
+Mana Cost: {2}{R}
+Card Type: Creature — Minotaur Warrior
+Text: Whenever you cast an instant or sorcery spell, target creature an opponent controls can't block this turn.
+ 
+
+Name: Sonic Assault
+Mana Cost: {1}{U}{R}
+Card Type: Instant
+Text: Tap target creature. Sonic Assault deals 2 damage to that creature's controller.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+ 
+
+Name: Spinal Centipede
+Mana Cost: {2}{B}
+Card Type: Creature — Insect
+Text: When Spinal Centipede dies, put a +1/+1 counter on target creature you control.
+ 
+
+Name: Sprouting Renewal
+Mana Cost: {2}{G}
+Card Type: Sorcery
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose one —
+• Create a 2/2 green and white Elf Knight creature token with vigilance.
+• Destroy target artifact or enchantment.
+ 
+
+Name: Statue
+Mana Cost: {2}{B}{G}
+Card Type: Instant
+Text: Destroy target artifact, creature, or enchantment.
+ 
+
+Name: Status
+Mana Cost: {B/G}
+Card Type: Instant
+Text: Target creature gets +1/+1 and gains deathtouch until end of turn.
+ 
+
+Name: Steam Vents
+Mana Cost: 
+
+Name: Street Riot
+Mana Cost: {4}{R}
+Card Type: Enchantment
+Text: As long as it's your turn, creatures you control get +1/+0 and have trample.
+ 
+
+Name: Sumala Woodshaper
+Mana Cost: {2}{G}{W}
+Card Type: Creature — Elf Druid
+Text: When Sumala Woodshaper enters the battlefield, look at the top four cards of your library. You may reveal a creature or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+ 
+
+Name: Sunhome Stalwart
+Mana Cost: {1}{W}
+Card Type: Creature — Human Soldier
+Text: First strike
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+ 
+
+Name: Sure Strike
+Mana Cost: {1}{R}
+Card Type: Instant
+Text: Target creature gets +3/+0 and gains first strike until end of turn.
+ 
+
+Name: Swamp
+Mana Cost: 
+
+Name: Swarm Guildmage
+Mana Cost: {B}{G}
+Card Type: Creature — Elf Shaman
+Text: {4}{B}, {T}: Creatures you control get +1/+0 and gain menace until end of turn. (They can't be blocked except by two or more creatures.)
+{1}{G}, {T}: You gain 2 life.
+ 
+
+Name: Swathcutter Giant
+Mana Cost: {4}{R}{W}
+Card Type: Creature — Giant Soldier
+Text: Vigilance
+Whenever Swathcutter Giant attacks, it deals 1 damage to each creature defending player controls.
+ 
+
+Name: Swiftblade Vindicator
+Mana Cost: {R}{W}
+Card Type: Creature — Human Soldier
+Text: Double strike, vigilance, trample
+ 
+
+Name: Sworn Companions
+Mana Cost: {2}{W}
+Card Type: Sorcery
+Text: Create two 1/1 white Soldier creature tokens with lifelink.
+ 
+
+Name: Tajic, Legion's Edge
+Mana Cost: {1}{R}{W}
+Card Type: Legendary Creature — Human Soldier
+Text: Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Prevent all noncombat damage that would be dealt to other creatures you control.
+{R}{W}: Tajic, Legion's Edge gains first strike until end of turn.
+ 
+
+Name: Take Heart
+Mana Cost: {W}
+Card Type: Instant
+Text: Target creature gets +2/+2 until end of turn. You gain 1 life for each attacking creature you control.
+ 
+
+Name: Temple Garden
+Mana Cost: 
+
+Name: Tenth District Guard
+Mana Cost: {1}{W}
+Card Type: Creature — Human Soldier
+Text: When Tenth District Guard enters the battlefield, target creature gets +0/+1 until end of turn.
+ 
+
+Name: Thief of Sanity
+Mana Cost: {1}{U}{B}
+Card Type: Creature — Specter
+Text: Flying
+Whenever Thief of Sanity deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
+ 
+
+Name: Thought Erasure
+Mana Cost: {U}{B}
+Card Type: Sorcery
+Text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+ 
+
+Name: Thoughtbound Phantasm
+Mana Cost: {U}
+Card Type: Creature — Spirit
+Text: Defender
+Whenever you surveil, put a +1/+1 counter on Thoughtbound Phantasm.
+As long as Thoughtbound Phantasm has three or more +1/+1 counters on it, it can attack as though it didn't have defender.
+ 
+
+Name: Thousand-Year Storm
+Mana Cost: {4}{U}{R}
+Card Type: Enchantment
+Text: Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.
+ 
+
+Name: Torch Courier
+Mana Cost: {R}
+Card Type: Creature — Goblin
+Text: Haste
+Sacrifice Torch Courier: Another target creature gains haste until end of turn.
+ 
+
+Name: Trostani Discordant
+Mana Cost: {3}{G}{W}
+Card Type: Legendary Creature — Dryad
+Text: Other creatures you control get +1/+1.
+When Trostani Discordant enters the battlefield, create two 1/1 white Soldier creature tokens with lifelink.
+At the beginning of your end step, each player gains control of all creatures they own.
+ 
+
+Name: Truefire Captain
+Mana Cost: {R}{R}{W}{W}
+Card Type: Creature — Human Knight
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever Truefire Captain is dealt damage, it deals that much damage to target player.
+ 
+
+Name: Undercity Necrolisk
+Mana Cost: {3}{B}
+Card Type: Creature — Zombie Lizard
+Text: {1}, Sacrifice another creature: Put a +1/+1 counter on Undercity Necrolisk. It gains menace until end of turn. Activate this ability only any time you could cast a sorcery. (It can't be blocked except by two or more creatures.)
+ 
+
+Name: Undercity Uprising
+Mana Cost: {2}{B}{G}
+Card Type: Sorcery
+Text: Creatures you control gain deathtouch until end of turn. Then target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+ 
+
+Name: Underrealm Lich
+Mana Cost: {3}{B}{G}
+Card Type: Creature — Zombie Elf Shaman
+Text: If you would draw a card, instead look at the top three cards of your library, then put one into your hand and the rest into your graveyard.
+Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap it.
+ 
+
+Name: Unexplained Disappearance
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Return target creature to its owner's hand.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+ 
+
+Name: Unmoored Ego
+Mana Cost: {1}{U}{B}
+Card Type: Sorcery
+Text: Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles their library, then draws a card for each card exiled from their hand this way.
+ 
+
+Name: Urban Utopia
+Mana Cost: {1}{G}
+Card Type: Enchantment — Aura
+Text: Enchant land
+When Urban Utopia enters the battlefield, draw a card.
+Enchanted land has "{T}: Add one mana of any color."
+ 
+
+Name: Vedalken Mesmerist
+Mana Cost: {1}{U}
+Card Type: Creature — Vedalken Wizard
+Text: Whenever Vedalken Mesmerist attacks, target creature an opponent controls gets -2/-0 until end of turn.
+ 
+
+Name: Veiled Shade
+Mana Cost: {2}{B}
+Card Type: Creature — Shade
+Text: {1}{B}: Veiled Shade gets +1/+1 until end of turn.
+ 
+
+Name: Venerated Loxodon
+Mana Cost: {4}{W}
+Card Type: Creature — Elephant Cleric
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+When Venerated Loxodon enters the battlefield, put a +1/+1 counter on each creature that convoked it.
+ 
+
+Name: Vernadi Shieldmate
+Mana Cost: {1}{G/W}
+Card Type: Creature — Human Soldier
+Text: Vigilance
+ 
+
+Name: Vicious Rumors
+Mana Cost: {B}
+Card Type: Sorcery
+Text: Vicious Rumors deals 1 damage to each opponent. Each opponent discards a card, then puts the top card of their library into their graveyard. You gain 1 life.
+ 
+
+Name: Vigorspore Wurm
+Mana Cost: {5}{G}
+Card Type: Creature — Wurm
+Text: Undergrowth — When Vigorspore Wurm enters the battlefield, target creature gains vigilance and gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+Vigorspore Wurm can't be blocked by more than one creature.
+ 
+
+Name: Vivid Revival
+Mana Cost: {4}{G}
+Card Type: Sorcery
+Text: Return up to three target multicolored cards from your graveyard to your hand. Exile Vivid Revival.
+ 
+
+Name: Vraska's Stoneglare
+Mana Cost: {4}{B}{G}
+Card Type: Sorcery
+Text: Destroy target creature. You gain life equal to its toughness. You may search your library and/or graveyard for a card named Vraska, Regal Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+ 
+
+Name: Vraska, Golgari Queen
+Mana Cost: {2}{B}{G}
+Card Type: Legendary Planeswalker — Vraska
+Text: +2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.
+-3: Destroy target nonland permanent with converted mana cost 3 or less.
+-9: You get an emblem with "Whenever a creature you control deals combat damage to a player, that player loses the game."
+ 
+
+Name: Vraska, Regal Gorgon
+Mana Cost: {5}{B}{G}
+Card Type: Legendary Planeswalker — Vraska
+Text: +2: Put a +1/+1 counter on up to one target creature. That creature gains menace until end of turn.
+−3: Destroy target creature.
+−10: For each creature card in your graveyard, put a +1/+1 counter on each creature you control.
+ 
+
+Name: Wall of Mist
+Mana Cost: {1}{U}
+Card Type: Creature — Wall
+Text: Defender
+ 
+
+Name: Wand of Vertebrae
+Mana Cost: {1}
+Card Type: Artifact
+Text: {T}: Put the top card of your library into your graveyard.
+{2}, {T}, Exile Wand of Vertebrae: Shuffle up to five target cards from your graveyard into your library.
+ 
+
+Name: Wary Okapi
+Mana Cost: {2}{G}
+Card Type: Creature — Antelope
+Text: Vigilance
+ 
+
+Name: Watcher in the Mist
+Mana Cost: {3}{U}{U}
+Card Type: Creature — Spirit
+Text: Flying
+When Watcher in the Mist enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+ 
+
+Name: Watery Grave
+Mana Cost: 
+
+Name: Wee Dragonauts
+Mana Cost: {1}{U}{R}
+Card Type: Creature — Faerie Wizard
+Text: Flying
+Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.
+ 
+
+Name: Whisper Agent
+Mana Cost: {1}{U/B}{U/B}
+Card Type: Creature — Human Rogue
+Text: Flash
+When Whisper Agent enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+ 
+
+Name: Whispering Snitch
+Mana Cost: {1}{B}
+Card Type: Creature — Vampire Rogue
+Text: Whenever you surveil for the first time each turn, Whispering Snitch deals 1 damage to each opponent and you gain 1 life.
+ 
+
+Name: Wild Ceratok
+Mana Cost: {3}{G}
+Card Type: Creature — Rhino
+Text: 
+
+Name: Wishcoin Crab
+Mana Cost: {3}{U}
+Card Type: Creature — Crab
+Text: 
+
+Name: Wojek Bodyguard
+Mana Cost: {2}{R}
+Card Type: Creature — Human Soldier
+Text: Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Wojek Bodyguard can't attack or block alone.
+ 
+
+Name: Worldsoul Colossus
+Mana Cost: {X}{G}{W}
+Card Type: Creature — Elemental
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Worldsoul Colossus enters the battlefield with X +1/+1 counters on it.
+ 
+

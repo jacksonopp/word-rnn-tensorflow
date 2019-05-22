@@ -1,0 +1,231 @@
+Name: Aggressive Instinct
+Mana Cost: {1}{G}
+Card Type: Sorcery
+Text: Target creature you control deals damage equal to its power to target creature you don't control.
+ 
+
+Name: Ancestor Dragon
+Mana Cost: {4}{W}{W}
+Card Type: Creature — Dragon
+Text: Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.
+ 
+
+Name: Armored Whirl Turtle
+Mana Cost: {2}{U}
+Card Type: Creature — Turtle
+Text: 
+
+Name: Breath of Fire
+Mana Cost: {1}{R}
+Card Type: Instant
+Text: Breath of Fire deals 2 damage to target creature.
+ 
+
+Name: Brilliant Plan
+Mana Cost: {4}{U}
+Card Type: Sorcery
+Text: Draw three cards.
+ 
+
+Name: Cleansing Screech
+Mana Cost: {4}{R}
+Card Type: Sorcery
+Text: Cleansing Screech deals 4 damage to any target.
+ 
+
+Name: Cloak of Mists
+Mana Cost: {1}{U}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature can't be blocked.
+ 
+
+Name: Colorful Feiyi Sparrow
+Mana Cost: {1}{W}
+Card Type: Creature — Bird
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+ 
+
+Name: Confidence from Strength
+Mana Cost: {2}{G}
+Card Type: Sorcery
+Text: Target creature gets +4/+4 and gains trample until end of turn. (It can deal excess combat damage to defending player or planeswalker while attacking.)
+ 
+
+Name: Dragon's Presence
+Mana Cost: {2}{W}
+Card Type: Instant
+Text: Dragon's Presence deals 5 damage to target attacking or blocking creature.
+ 
+
+Name: Drown in Shapelessness
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Return target creature to its owner's hand.
+ 
+
+Name: Earth-Origin Yak
+Mana Cost: {3}{W}
+Card Type: Creature — Ox
+Text: When Earth-Origin Yak enters the battlefield, creatures you control get +1/+1 until end of turn.
+ 
+
+Name: Earthshaking Si
+Mana Cost: {5}{G}
+Card Type: Creature — Beast
+Text: Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+ 
+
+Name: Feiyi Snake
+Mana Cost: {1}{G}
+Card Type: Creature — Snake
+Text: Reach (This creature can block creatures with flying.)
+ 
+
+Name: Ferocious Zheng
+Mana Cost: {2}{G}{G}
+Card Type: Creature — Cat Beast
+Text: 
+
+Name: Fire-Omen Crane
+Mana Cost: {3}{R}{R}
+Card Type: Creature — Bird Spirit
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Fire-Omen Crane attacks, it deals 1 damage to target creature an opponent controls.
+ 
+
+Name: Forest
+Mana Cost: 
+
+Name: Giant Spider
+Mana Cost: {3}{G}
+Card Type: Creature — Spider
+Text: Reach (This creature can block creatures with flying.)
+ 
+
+Name: Hardened-Scale Armor
+Mana Cost: {2}{G}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +3/+3.
+ 
+
+Name: Heavenly Qilin
+Mana Cost: {2}{W}
+Card Type: Creature — Kirin
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Heavenly Qilin attacks, another target creature you control gains flying until end of turn.
+ 
+
+Name: Island
+Mana Cost: 
+
+Name: Jiang Yanggu
+Mana Cost: {4}{G}
+Card Type: Legendary Planeswalker — Yanggu
+Text: +1: Target creature gets +2/+2 until end of turn.
+−1: If you don't control a creature named Mowu, create a legendary 3/3 green Hound creature token named Mowu.
+−5: Until end of turn, target creature gains trample and gets +X/+X, where X is the number of lands you control.
+ 
+
+Name: Journey for the Elixir
+Mana Cost: {2}{G}
+Card Type: Sorcery
+Text: Search your library and graveyard for a basic land card and a card named Jiang Yanggu, reveal them, put them into your hand, then shuffle your library.
+ 
+
+Name: Leopard-Spotted Jiao
+Mana Cost: {1}{R}
+Card Type: Creature — Beast
+Text: 
+
+Name: Meandering River
+Mana Cost: 
+
+Name: Moon-Eating Dog
+Mana Cost: {3}{U}
+Card Type: Creature — Hound
+Text: As long as you control a Yanling planeswalker, Moon-Eating Dog has flying. (It can't be blocked except by creatures with flying or reach.)
+ 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Mu Yanling
+Mana Cost: {4}{U}{U}
+Card Type: Legendary Planeswalker — Yanling
+Text: +2: Target creature can't be blocked this turn.
+−3: Draw two cards.
+−10: Tap all creatures your opponents control. You take an extra turn after this one.
+ 
+
+Name: Nine-Tail White Fox
+Mana Cost: {2}{U}
+Card Type: Creature — Fox Spirit
+Text: Whenever Nine-Tail White Fox deals combat damage to a player, draw a card.
+ 
+
+Name: Plains
+Mana Cost: 
+
+Name: Purple-Crystal Crab
+Mana Cost: {1}{U}
+Card Type: Creature — Crab
+Text: When Purple-Crystal Crab dies, draw a card.
+ 
+
+Name: Qilin's Blessing
+Mana Cost: {W}
+Card Type: Instant
+Text: Target creature gets +2/+2 until end of turn.
+ 
+
+Name: Reckless Pangolin
+Mana Cost: {2}{G}
+Card Type: Creature — Pangolin
+Text: Whenever Reckless Pangolin attacks, it gets +1/+1 until end of turn.
+ 
+
+Name: Rhythmic Water Vortex
+Mana Cost: {3}{U}{U}
+Card Type: Sorcery
+Text: Return up to two target creatures to their owner's hand.
+Search your library and/or graveyard for a card named Mu Yanling, reveal it, and put it into your hand. If you searched your library this way, shuffle it.
+ 
+
+Name: Sacred White Deer
+Mana Cost: {1}{G}
+Card Type: Creature — Elk
+Text: {3}{G}, {T}: You gain 4 life. Activate this ability only if you control a Yanggu planeswalker.
+ 
+
+Name: Screeching Phoenix
+Mana Cost: {4}{R}{R}
+Card Type: Creature — Phoenix
+Text: Flying
+{2}{R}: Creatures you control get +1/+0 until end of turn.
+ 
+
+Name: Stormcloud Spirit
+Mana Cost: {3}{U}{U}
+Card Type: Creature — Spirit
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+ 
+
+Name: Timber Gorge
+Mana Cost: 
+
+Name: Vivid Flying Fish
+Mana Cost: {1}{U}
+Card Type: Creature — Fish Lizard
+Text: Vivid Flying Fish has flying as long as it's attacking. (It can't be blocked except by creatures with flying or reach.)
+ 
+
+Name: Welkin Tern
+Mana Cost: {1}{U}
+Card Type: Creature — Bird
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+Welkin Tern can block only creatures with flying.
+ 
+

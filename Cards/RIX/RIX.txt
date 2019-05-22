@@ -1,0 +1,1338 @@
+Name: Admiral's Order
+Mana Cost: {1}{U}{U}
+Card Type: Instant
+Text: Raid — If you attacked with a creature this turn, you may pay {U} rather than pay this spell's mana cost.
+Counter target spell.
+ 
+
+Name: Aggressive Urge
+Mana Cost: {1}{G}
+Card Type: Instant
+Text: Target creature gets +1/+1 until end of turn.
+Draw a card.
+ 
+
+Name: Angrath's Ambusher
+Mana Cost: {2}{B}
+Card Type: Creature — Orc Pirate
+Text: Angrath's Ambusher gets +2/+0 as long as you control an Angrath planeswalker.
+ 
+
+Name: Angrath's Fury
+Mana Cost: {3}{B}{R}
+Card Type: Sorcery
+Text: Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+ 
+
+Name: Angrath, Minotaur Pirate
+Mana Cost: {4}{B}{R}
+Card Type: Legendary Planeswalker — Angrath
+Text: +2: Angrath, Minotaur Pirate deals 1 damage to target opponent or planeswalker and each creature that player or that planeswalker's controller controls.
+−3: Return target Pirate card from your graveyard to the battlefield.
+−11: Destroy all creatures target opponent controls. Angrath, Minotaur Pirate deals damage to that player equal to their total power.
+ 
+
+Name: Angrath, the Flame-Chained
+Mana Cost: {3}{B}{R}
+Card Type: Legendary Planeswalker — Angrath
+Text: +1: Each opponent discards a card and loses 2 life.
+−3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less.
+−8: Each opponent loses life equal to the number of cards in their graveyard.
+ 
+
+Name: Aquatic Incursion
+Mana Cost: {3}{U}
+Card Type: Enchantment
+Text: When Aquatic Incursion enters the battlefield, create two 1/1 blue Merfolk creature tokens with hexproof. (They can't be the targets of spells or abilities your opponents control.)
+{3}{U}: Target Merfolk can't be blocked this turn.
+ 
+
+Name: Arch of Orazca
+Mana Cost: 
+
+Name: Arterial Flow
+Mana Cost: {1}{B}{B}
+Card Type: Sorcery
+Text: Each opponent discards two cards. If you control a Vampire, each opponent loses 2 life and you gain 2 life.
+ 
+
+Name: Atzocan Seer
+Mana Cost: {1}{G}{W}
+Card Type: Creature — Human Druid
+Text: {T}: Add one mana of any color.
+Sacrifice Atzocan Seer: Return target Dinosaur card from your graveyard to your hand.
+ 
+
+Name: Awakened Amalgam
+Mana Cost: {4}
+Card Type: Artifact Creature — Golem
+Text: Awakened Amalgam's power and toughness are each equal to the number of differently named lands you control.
+ 
+
+Name: Sanctum of the Sun
+Mana Cost: 
+
+Name: Azor's Gateway
+Mana Cost: {2}
+Card Type: Legendary Artifact
+Text: {1}, {T}: Draw a card, then exile a card from your hand. If cards with five or more different converted mana costs are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it.
+ 
+
+Name: Azor, the Lawbringer
+Mana Cost: {2}{W}{W}{U}{U}
+Card Type: Legendary Creature — Sphinx
+Text: Flying
+When Azor, the Lawbringer enters the battlefield, each opponent can't cast instant or sorcery spells during that player's next turn.
+Whenever Azor attacks, you may pay {X}{W}{U}{U}. If you do, you gain X life and draw X cards.
+ 
+
+Name: Baffling End
+Mana Cost: {1}{W}
+Card Type: Enchantment
+Text: When Baffling End enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less.
+When Baffling End leaves the battlefield, target opponent creates a 3/3 green Dinosaur creature token with trample.
+ 
+
+Name: Bishop of Binding
+Mana Cost: {3}{W}
+Card Type: Creature — Vampire Cleric
+Text: When Bishop of Binding enters the battlefield, exile target creature an opponent controls until Bishop of Binding leaves the battlefield.
+Whenever Bishop of Binding attacks, target Vampire gets +X/+X until end of turn, where X is the power of the exiled card.
+ 
+
+Name: Blazing Hope
+Mana Cost: {W}
+Card Type: Instant
+Text: Exile target creature with power greater than or equal to your life total.
+ 
+
+Name: Blood Sun
+Mana Cost: {2}{R}
+Card Type: Enchantment
+Text: When Blood Sun enters the battlefield, draw a card.
+All lands lose all abilities except mana abilities.
+ 
+
+Name: Bombard
+Mana Cost: {2}{R}
+Card Type: Instant
+Text: Bombard deals 4 damage to target creature.
+ 
+
+Name: Brass's Bounty
+Mana Cost: {6}{R}
+Card Type: Sorcery
+Text: For each land you control, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Brazen Freebooter
+Mana Cost: {3}{R}
+Card Type: Creature — Human Pirate
+Text: When Brazen Freebooter enters the battlefield, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Buccaneer's Bravado
+Mana Cost: {1}{R}
+Card Type: Instant
+Text: Choose one —
+• Target creature gets +1/+1 and gains first strike until end of turn.
+• Target Pirate gets +1/+1 and gains double strike until end of turn.
+ 
+
+Name: Cacophodon
+Mana Cost: {3}{G}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Cacophodon is dealt damage, untap target permanent.
+ 
+
+Name: Canal Monitor
+Mana Cost: {4}{B}
+Card Type: Creature — Lizard
+Text: 
+
+Name: Captain's Hook
+Mana Cost: {3}
+Card Type: Artifact — Equipment
+Text: Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its other creature types.
+Whenever Captain's Hook becomes unattached from a permanent, destroy that permanent.
+Equip {1}
+ 
+
+Name: Champion of Dusk
+Mana Cost: {3}{B}{B}
+Card Type: Creature — Vampire Knight
+Text: When Champion of Dusk enters the battlefield, you draw X cards and you lose X life, where X is the number of Vampires you control.
+ 
+
+Name: Charging Tuskodon
+Mana Cost: {3}{R}{R}
+Card Type: Creature — Dinosaur
+Text: Trample
+If Charging Tuskodon would deal combat damage to a player, it deals double that damage to that player instead.
+ 
+
+Name: Cherished Hatchling
+Mana Cost: {1}{G}
+Card Type: Creature — Dinosaur
+Text: When Cherished Hatchling dies, you may cast Dinosaur spells this turn as though they had flash, and whenever you cast a Dinosaur spell this turn, it gains "When this creature enters the battlefield, you may have it fight another target creature."
+ 
+
+Name: Cinder Barrens
+Mana Cost: 
+
+Name: Cleansing Ray
+Mana Cost: {1}{W}
+Card Type: Sorcery
+Text: Choose one —
+• Destroy target Vampire.
+• Destroy target enchantment.
+ 
+
+Name: Colossal Dreadmaw
+Mana Cost: {4}{G}{G}
+Card Type: Creature — Dinosaur
+Text: Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+ 
+
+Name: Crafty Cutpurse
+Mana Cost: {3}{U}
+Card Type: Creature — Human Pirate
+Text: Flash
+When Crafty Cutpurse enters the battlefield, each token that would be created under an opponent's control this turn is created under your control instead.
+ 
+
+Name: Crashing Tide
+Mana Cost: {2}{U}
+Card Type: Sorcery
+Text: Crashing Tide has flash as long as you control a Merfolk.
+Return target creature to its owner's hand.
+Draw a card.
+ 
+
+Name: Crested Herdcaller
+Mana Cost: {3}{G}{G}
+Card Type: Creature — Dinosaur
+Text: Trample
+When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur creature token with trample.
+ 
+
+Name: Curious Obsession
+Mana Cost: {U}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature deals combat damage to a player, you may draw a card."
+At the beginning of your end step, if you didn't attack with a creature this turn, sacrifice Curious Obsession.
+ 
+
+Name: Daring Buccaneer
+Mana Cost: {R}
+Card Type: Creature — Human Pirate
+Text: As an additional cost to cast this spell, reveal a Pirate card from your hand or pay {2}.
+ 
+
+Name: Dark Inquiry
+Mana Cost: {2}{B}
+Card Type: Sorcery
+Text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+ 
+
+Name: Dead Man's Chest
+Mana Cost: {1}{B}
+Card Type: Enchantment — Aura
+Text: Enchant creature an opponent controls
+When enchanted creature dies, exile cards equal to its power from the top of its owner's library. You may cast nonland cards from among them for as long as they remain exiled, and you may spend mana as though it were mana of any type to cast those spells.
+ 
+
+Name: Deadeye Brawler
+Mana Cost: {2}{U}{B}
+Card Type: Creature — Human Pirate
+Text: Deathtouch
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Whenever Deadeye Brawler deals combat damage to a player, if you have the city's blessing, draw a card.
+ 
+
+Name: Deadeye Rig-Hauler
+Mana Cost: {3}{U}
+Card Type: Creature — Human Pirate
+Text: Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked with a creature this turn, you may return target creature to its owner's hand.
+ 
+
+Name: Deeproot Elite
+Mana Cost: {1}{G}
+Card Type: Creature — Merfolk Warrior
+Text: Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on target Merfolk you control.
+ 
+
+Name: Dinosaur Hunter
+Mana Cost: {1}{B}
+Card Type: Creature — Human Pirate
+Text: Whenever Dinosaur Hunter deals damage to a Dinosaur, destroy that creature.
+ 
+
+Name: Dire Fleet Daredevil
+Mana Cost: {1}{R}
+Card Type: Creature — Human Pirate
+Text: First strike
+When Dire Fleet Daredevil enters the battlefield, exile target instant or sorcery card from an opponent's graveyard. You may cast that card this turn, and you may spend mana as though it were mana of any type to cast that spell. If that card would be put into a graveyard this turn, exile it instead.
+ 
+
+Name: Dire Fleet Neckbreaker
+Mana Cost: {2}{B}{R}
+Card Type: Creature — Orc Pirate
+Text: Attacking Pirates you control get +2/+0.
+ 
+
+Name: Dire Fleet Poisoner
+Mana Cost: {1}{B}
+Card Type: Creature — Human Pirate
+Text: Flash
+Deathtouch
+When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you control gets +1/+1 and gains deathtouch until end of turn.
+ 
+
+Name: Divine Verdict
+Mana Cost: {3}{W}
+Card Type: Instant
+Text: Destroy target attacking or blocking creature.
+ 
+
+Name: Dusk Charger
+Mana Cost: {3}{B}
+Card Type: Creature — Horse
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Dusk Charger gets +2/+2 as long as you have the city's blessing.
+ 
+
+Name: Dusk Legion Zealot
+Mana Cost: {1}{B}
+Card Type: Creature — Vampire Soldier
+Text: When Dusk Legion Zealot enters the battlefield, you draw a card and you lose 1 life.
+ 
+
+Name: Elenda, the Dusk Rose
+Mana Cost: {2}{W}{B}
+Card Type: Legendary Creature — Vampire Knight
+Text: Lifelink
+Whenever another creature dies, put a +1/+1 counter on Elenda, the Dusk Rose.
+When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, where X is Elenda's power.
+ 
+
+Name: Enter the Unknown
+Mana Cost: {G}
+Card Type: Sorcery
+Text: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)
+You may play an additional land this turn.
+ 
+
+Name: Etali, Primal Storm
+Mana Cost: {4}{R}{R}
+Card Type: Legendary Creature — Elder Dinosaur
+Text: Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of nonland cards exiled this way without paying their mana costs.
+ 
+
+Name: Everdawn Champion
+Mana Cost: {1}{W}{W}
+Card Type: Creature — Human Soldier
+Text: Prevent all combat damage that would be dealt to Everdawn Champion.
+ 
+
+Name: Evolving Wilds
+Mana Cost: 
+
+Name: Expel from Orazca
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Return target nonland permanent to its owner's hand. If you have the city's blessing, you may put that permanent on top of its owner's library instead.
+ 
+
+Name: Exultant Skymarcher
+Mana Cost: {1}{W}{W}
+Card Type: Creature — Vampire Soldier
+Text: Flying
+ 
+
+Name: Famished Paladin
+Mana Cost: {1}{W}
+Card Type: Creature — Vampire Knight
+Text: Famished Paladin doesn't untap during your untap step.
+Whenever you gain life, untap Famished Paladin.
+ 
+
+Name: Fanatical Firebrand
+Mana Cost: {R}
+Card Type: Creature — Goblin Pirate
+Text: Haste
+{T}, Sacrifice Fanatical Firebrand: It deals 1 damage to any target.
+ 
+
+Name: Fathom Fleet Boarder
+Mana Cost: {2}{B}
+Card Type: Creature — Orc Pirate
+Text: When Fathom Fleet Boarder enters the battlefield, you lose 2 life unless you control another Pirate.
+ 
+
+Name: Flood of Recollection
+Mana Cost: {U}{U}
+Card Type: Sorcery
+Text: Return target instant or sorcery card from your graveyard to your hand. Exile Flood of Recollection.
+ 
+
+Name: Forerunner of the Coalition
+Mana Cost: {2}{B}
+Card Type: Creature — Human Pirate
+Text: When Forerunner of the Coalition enters the battlefield, you may search your library for a Pirate card, reveal it, then shuffle your library and put that card on top of it.
+Whenever another Pirate enters the battlefield under your control, each opponent loses 1 life.
+ 
+
+Name: Forerunner of the Empire
+Mana Cost: {3}{R}
+Card Type: Creature — Human Soldier
+Text: When Forerunner of the Empire enters the battlefield, you may search your library for a Dinosaur card, reveal it, then shuffle your library and put that card on top of it.
+Whenever a Dinosaur enters the battlefield under your control, you may have Forerunner of the Empire deal 1 damage to each creature.
+ 
+
+Name: Forerunner of the Heralds
+Mana Cost: {3}{G}
+Card Type: Creature — Merfolk Scout
+Text: When Forerunner of the Heralds enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.
+Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on Forerunner of the Heralds.
+ 
+
+Name: Forerunner of the Legion
+Mana Cost: {2}{W}
+Card Type: Creature — Vampire Knight
+Text: When Forerunner of the Legion enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle your library and put that card on top of it.
+Whenever another Vampire enters the battlefield under your control, target creature gets +1/+1 until end of turn.
+ 
+
+Name: Forest
+Mana Cost: 
+
+Name: Form of the Dinosaur
+Mana Cost: {4}{R}{R}
+Card Type: Enchantment
+Text: When Form of the Dinosaur enters the battlefield, your life total becomes 15.
+At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to target creature an opponent controls and that creature deals damage equal to its power to you.
+ 
+
+Name: Forsaken Sanctuary
+Mana Cost: 
+
+Name: Foul Orchard
+Mana Cost: 
+
+Name: Frilled Deathspitter
+Mana Cost: {2}{R}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Frilled Deathspitter is dealt damage, it deals 2 damage to target opponent or planeswalker.
+ 
+
+Name: Ghalta, Primal Hunger
+Mana Cost: {10}{G}{G}
+Card Type: Legendary Creature — Elder Dinosaur
+Text: This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample
+ 
+
+Name: Giltgrove Stalker
+Mana Cost: {1}{G}
+Card Type: Creature — Merfolk Warrior
+Text: Giltgrove Stalker can't be blocked by creatures with power 2 or less.
+ 
+
+Name: Gleaming Barrier
+Mana Cost: {2}
+Card Type: Artifact Creature — Wall
+Text: Defender
+When Gleaming Barrier dies, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Goblin Trailblazer
+Mana Cost: {1}{R}
+Card Type: Creature — Goblin Pirate
+Text: Menace
+ 
+
+Name: Golden Demise
+Mana Cost: {1}{B}{B}
+Card Type: Sorcery
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+All creatures get -2/-2 until end of turn. If you have the city's blessing, instead only creatures your opponents control get -2/-2 until end of turn.
+ 
+
+Name: Gold-Forge Garrison
+Mana Cost: 
+
+Name: Golden Guardian
+Mana Cost: {4}
+Card Type: Artifact Creature — Golem
+Text: Defender
+{2}: Golden Guardian fights another target creature you control. When Golden Guardian dies this turn, return it to the battlefield transformed under your control.
+ 
+
+Name: Grasping Scoundrel
+Mana Cost: {B}
+Card Type: Creature — Human Pirate
+Text: Grasping Scoundrel gets +1/+0 as long as it's attacking.
+ 
+
+Name: Gruesome Fate
+Mana Cost: {2}{B}
+Card Type: Sorcery
+Text: Each opponent loses 1 life for each creature you control.
+ 
+
+Name: Winged Temple of Orazca
+Mana Cost: 
+
+Name: Hadana's Climb
+Mana Cost: {1}{G}{U}
+Card Type: Legendary Enchantment
+Text: At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has three or more +1/+1 counters on it, transform Hadana's Climb.
+ 
+
+Name: Hardy Veteran
+Mana Cost: {1}{G}
+Card Type: Creature — Human Warrior
+Text: As long as it's your turn, Hardy Veteran gets +0/+2.
+ 
+
+Name: Highland Lake
+Mana Cost: 
+
+Name: Hornswoggle
+Mana Cost: {2}{U}
+Card Type: Instant
+Text: Counter target creature spell. You create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Huatli, Radiant Champion
+Mana Cost: {2}{G}{W}
+Card Type: Legendary Planeswalker — Huatli
+Text: +1: Put a loyalty counter on Huatli, Radiant Champion for each creature you control.
+−1: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+−8: You get an emblem with "Whenever a creature enters the battlefield under your control, you may draw a card."
+ 
+
+Name: Hunt the Weak
+Mana Cost: {3}{G}
+Card Type: Sorcery
+Text: Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)
+ 
+
+Name: Impale
+Mana Cost: {2}{B}{B}
+Card Type: Sorcery
+Text: Destroy target creature.
+ 
+
+Name: Imperial Ceratops
+Mana Cost: {4}{W}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Imperial Ceratops is dealt damage, you gain 2 life.
+ 
+
+Name: Induced Amnesia
+Mana Cost: {2}{U}
+Card Type: Enchantment
+Text: When Induced Amnesia enters the battlefield, target player exiles all cards from their hand face down, then draws that many cards.
+When Induced Amnesia is put into a graveyard from the battlefield, return the exiled cards to their owner's hand.
+ 
+
+Name: Island
+Mana Cost: 
+
+Name: Jade Bearer
+Mana Cost: {G}
+Card Type: Creature — Merfolk Shaman
+Text: When Jade Bearer enters the battlefield, put a +1/+1 counter on another target Merfolk you control.
+ 
+
+Name: Jadecraft Artisan
+Mana Cost: {3}{G}
+Card Type: Creature — Merfolk Shaman
+Text: When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 until end of turn.
+ 
+
+Name: Jadelight Ranger
+Mana Cost: {1}{G}{G}
+Card Type: Creature — Merfolk Scout
+Text: When Jadelight Ranger enters the battlefield, it explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. Then repeat this process.)
+ 
+
+Name: Atzal, Cave of Eternity
+Mana Cost: 
+
+Name: Journey to Eternity
+Mana Cost: {1}{B}{G}
+Card Type: Legendary Enchantment — Aura
+Text: Enchant creature you control
+When enchanted creature dies, return it to the battlefield under your control, then return Journey to Eternity to the battlefield transformed under your control.
+ 
+
+Name: Jungle Creeper
+Mana Cost: {1}{B}{G}
+Card Type: Creature — Elemental
+Text: {3}{B}{G}: Return Jungle Creeper from your graveyard to your hand.
+ 
+
+Name: Jungleborn Pioneer
+Mana Cost: {2}{G}
+Card Type: Creature — Merfolk Scout
+Text: When Jungleborn Pioneer enters the battlefield, create a 1/1 blue Merfolk creature token with hexproof. (It can't be the target of spells or abilities your opponents control.)
+ 
+
+Name: Kitesail Corsair
+Mana Cost: {1}{U}
+Card Type: Creature — Human Pirate
+Text: Kitesail Corsair has flying as long as it's attacking.
+ 
+
+Name: Knight of the Stampede
+Mana Cost: {3}{G}
+Card Type: Creature — Human Knight
+Text: Dinosaur spells you cast cost {2} less to cast.
+ 
+
+Name: Kumena's Awakening
+Mana Cost: {2}{U}{U}
+Card Type: Enchantment
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of your upkeep, each player draws a card. If you have the city's blessing, instead only you draw a card.
+ 
+
+Name: Kumena, Tyrant of Orazca
+Mana Cost: {1}{G}{U}
+Card Type: Legendary Creature — Merfolk Shaman
+Text: Tap another untapped Merfolk you control: Kumena, Tyrant of Orazca can't be blocked this turn.
+Tap three untapped Merfolk you control: Draw a card.
+Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk you control.
+ 
+
+Name: Legion Conquistador
+Mana Cost: {2}{W}
+Card Type: Creature — Vampire Soldier
+Text: When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library.
+ 
+
+Name: Legion Lieutenant
+Mana Cost: {W}{B}
+Card Type: Creature — Vampire Knight
+Text: Other Vampires you control get +1/+1.
+ 
+
+Name: Luminous Bonds
+Mana Cost: {2}{W}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature can't attack or block.
+ 
+
+Name: Majestic Heliopterus
+Mana Cost: {3}{W}
+Card Type: Creature — Dinosaur
+Text: Flying
+Whenever Majestic Heliopterus attacks, another target Dinosaur you control gains flying until end of turn.
+ 
+
+Name: Martyr of Dusk
+Mana Cost: {1}{W}
+Card Type: Creature — Vampire Soldier
+Text: When Martyr of Dusk dies, create a 1/1 white Vampire creature token with lifelink.
+ 
+
+Name: Mastermind's Acquisition
+Mana Cost: {2}{B}{B}
+Card Type: Sorcery
+Text: Choose one —
+• Search your library for a card, put it into your hand, then shuffle your library.
+• Choose a card you own from outside the game and put it into your hand.
+ 
+
+Name: Mausoleum Harpy
+Mana Cost: {4}{B}
+Card Type: Creature — Harpy
+Text: Flying
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Whenever another creature you control dies, if you have the city's blessing, put a +1/+1 counter on Mausoleum Harpy.
+ 
+
+Name: Merfolk Mistbinder
+Mana Cost: {G}{U}
+Card Type: Creature — Merfolk Shaman
+Text: Other Merfolk you control get +1/+1.
+ 
+
+Name: Mist-Cloaked Herald
+Mana Cost: {U}
+Card Type: Creature — Merfolk Warrior
+Text: Mist-Cloaked Herald can't be blocked.
+ 
+
+Name: Moment of Craving
+Mana Cost: {1}{B}
+Card Type: Instant
+Text: Target creature gets -2/-2 until end of turn. You gain 2 life.
+ 
+
+Name: Moment of Triumph
+Mana Cost: {W}
+Card Type: Instant
+Text: Target creature gets +2/+2 until end of turn. You gain 2 life.
+ 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Mutiny
+Mana Cost: {R}
+Card Type: Sorcery
+Text: Target creature an opponent controls deals damage equal to its power to another target creature that player controls.
+ 
+
+Name: Naturalize
+Mana Cost: {1}{G}
+Card Type: Instant
+Text: Destroy target artifact or enchantment.
+ 
+
+Name: Needletooth Raptor
+Mana Cost: {3}{R}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Needletooth Raptor is dealt damage, it deals 5 damage to target creature an opponent controls.
+ 
+
+Name: Negate
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Counter target noncreature spell.
+ 
+
+Name: Nezahal, Primal Tide
+Mana Cost: {5}{U}{U}
+Card Type: Legendary Creature — Elder Dinosaur
+Text: Nezahal, Primal Tide can't be countered.
+You have no maximum hand size.
+Whenever an opponent casts a noncreature spell, draw a card.
+Discard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step.
+ 
+
+Name: Oathsworn Vampire
+Mana Cost: {1}{B}
+Card Type: Creature — Vampire Knight
+Text: Oathsworn Vampire enters the battlefield tapped.
+You may cast Oathsworn Vampire from your graveyard if you gained life this turn.
+ 
+
+Name: Orazca Frillback
+Mana Cost: {2}{G}
+Card Type: Creature — Dinosaur
+Text: 
+
+Name: Orazca Raptor
+Mana Cost: {2}{R}{R}
+Card Type: Creature — Dinosaur
+Text: 
+
+Name: Orazca Relic
+Mana Cost: {3}
+Card Type: Artifact
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+{T}: Add {C}.
+{T}, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate this ability only if you have the city's blessing.
+ 
+
+Name: Overgrown Armasaur
+Mana Cost: {3}{G}{G}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Overgrown Armasaur is dealt damage, create a 1/1 green Saproling creature token.
+ 
+
+Name: Paladin of Atonement
+Mana Cost: {1}{W}
+Card Type: Creature — Vampire Knight
+Text: At the beginning of each upkeep, if you lost life last turn, put a +1/+1 counter on Paladin of Atonement.
+When Paladin of Atonement dies, you gain life equal to its toughness.
+ 
+
+Name: Path of Discovery
+Mana Cost: {3}{G}
+Card Type: Enchantment
+Text: Whenever a creature enters the battlefield under your control, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)
+ 
+
+Name: Metzali, Tower of Triumph
+Mana Cost: 
+
+Name: Path of Mettle
+Mana Cost: {R}{W}
+Card Type: Legendary Enchantment
+Text: When Path of Mettle enters the battlefield, it deals 1 damage to each creature that doesn't have first strike, double strike, vigilance, or haste.
+Whenever you attack with at least two creatures that have first strike, double strike, vigilance, and/or haste, transform Path of Mettle.
+ 
+
+Name: Pirate's Pillage
+Mana Cost: {3}{R}
+Card Type: Sorcery
+Text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two colorless Treasure artifact tokens with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Pitiless Plunderer
+Mana Cost: {3}{B}
+Card Type: Creature — Human Pirate
+Text: Whenever another creature you control dies, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Plains
+Mana Cost: 
+
+Name: Plummet
+Mana Cost: {1}{G}
+Card Type: Instant
+Text: Destroy target creature with flying.
+ 
+
+Name: Polyraptor
+Mana Cost: {6}{G}{G}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Polyraptor is dealt damage, create a token that's a copy of Polyraptor.
+ 
+
+Name: Pride of Conquerors
+Mana Cost: {1}{W}
+Card Type: Instant
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Creatures you control get +1/+1 until end of turn. If you have the city's blessing, those creatures get +2/+2 until end of turn instead.
+ 
+
+Name: Tomb of the Dusk Rose
+Mana Cost: 
+
+Name: Profane Procession
+Mana Cost: {1}{W}{B}
+Card Type: Legendary Enchantment
+Text: {3}{W}{B}: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it.
+ 
+
+Name: Protean Raider
+Mana Cost: {1}{U}{R}
+Card Type: Creature — Shapeshifter Pirate
+Text: Raid — If you attacked with a creature this turn, you may have Protean Raider enter the battlefield as a copy of any creature on the battlefield.
+ 
+
+Name: Radiant Destiny
+Mana Cost: {2}{W}
+Card Type: Enchantment
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+As Radiant Destiny enters the battlefield, choose a creature type.
+Creatures you control of the chosen type get +1/+1. As long as you have the city's blessing, they also have vigilance.
+ 
+
+Name: Raging Regisaur
+Mana Cost: {2}{R}{G}
+Card Type: Creature — Dinosaur
+Text: Whenever Raging Regisaur attacks, it deals 1 damage to any target.
+ 
+
+Name: Raptor Companion
+Mana Cost: {1}{W}
+Card Type: Creature — Dinosaur
+Text: 
+
+Name: Ravenous Chupacabra
+Mana Cost: {2}{B}{B}
+Card Type: Creature — Beast Horror
+Text: When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls.
+ 
+
+Name: Reaver Ambush
+Mana Cost: {2}{B}
+Card Type: Instant
+Text: Exile target creature with power 3 or less.
+ 
+
+Name: Reckless Rage
+Mana Cost: {R}
+Card Type: Instant
+Text: Reckless Rage deals 4 damage to target creature you don't control and 2 damage to target creature you control.
+ 
+
+Name: Recover
+Mana Cost: {2}{B}
+Card Type: Sorcery
+Text: Return target creature card from your graveyard to your hand.
+Draw a card.
+ 
+
+Name: Rekindling Phoenix
+Mana Cost: {2}{R}{R}
+Card Type: Creature — Phoenix
+Text: Flying
+When Rekindling Phoenix dies, create a 0/1 red Elemental creature token with "At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn."
+ 
+
+Name: Release to the Wind
+Mana Cost: {2}{U}
+Card Type: Instant
+Text: Exile target nonland permanent. For as long as that card remains exiled, its owner may cast it without paying its mana cost.
+ 
+
+Name: Relentless Raptor
+Mana Cost: {R}{W}
+Card Type: Creature — Dinosaur
+Text: Vigilance
+Relentless Raptor attacks or blocks each combat if able.
+ 
+
+Name: Resplendent Griffin
+Mana Cost: {1}{W}{U}
+Card Type: Creature — Griffin
+Text: Flying
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Whenever Resplendent Griffin attacks, if you have the city's blessing, put a +1/+1 counter on it.
+ 
+
+Name: River Darter
+Mana Cost: {2}{U}
+Card Type: Creature — Merfolk Warrior
+Text: River Darter can't be blocked by Dinosaurs.
+ 
+
+Name: Riverwise Augur
+Mana Cost: {3}{U}
+Card Type: Creature — Merfolk Wizard
+Text: When Riverwise Augur enters the battlefield, draw three cards, then put two cards from your hand on top of your library in any order.
+ 
+
+Name: Sadistic Skymarcher
+Mana Cost: {2}{B}
+Card Type: Creature — Vampire Soldier
+Text: As an additional cost to cast this spell, reveal a Vampire card from your hand or pay {1}.
+Flying, lifelink
+ 
+
+Name: Sailor of Means
+Mana Cost: {2}{U}
+Card Type: Creature — Human Pirate
+Text: When Sailor of Means enters the battlefield, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+ 
+
+Name: Sanguine Glorifier
+Mana Cost: {3}{W}
+Card Type: Creature — Vampire Cleric
+Text: When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on another target Vampire you control.
+ 
+
+Name: Sea Legs
+Mana Cost: {U}
+Card Type: Enchantment — Aura
+Text: Flash
+Enchant creature
+Enchanted creature gets +0/+2 as long as it's a Pirate. Otherwise, it gets -2/-0.
+ 
+
+Name: Seafloor Oracle
+Mana Cost: {2}{U}{U}
+Card Type: Creature — Merfolk Wizard
+Text: Whenever a Merfolk you control deals combat damage to a player, draw a card.
+ 
+
+Name: Secrets of the Golden City
+Mana Cost: {1}{U}{U}
+Card Type: Sorcery
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Draw two cards. If you have the city's blessing, draw three cards instead.
+ 
+
+Name: See Red
+Mana Cost: {1}{R}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +2/+1 and has first strike.
+At the beginning of your end step, if you didn't attack with a creature this turn, sacrifice See Red.
+ 
+
+Name: Shake the Foundations
+Mana Cost: {2}{R}
+Card Type: Instant
+Text: Shake the Foundations deals 1 damage to each creature without flying.
+Draw a card.
+ 
+
+Name: Shatter
+Mana Cost: {1}{R}
+Card Type: Instant
+Text: Destroy target artifact.
+ 
+
+Name: Siegehorn Ceratops
+Mana Cost: {G}{W}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters on it. (It must survive the damage to get the counters.)
+ 
+
+Name: Silent Gravestone
+Mana Cost: {1}
+Card Type: Artifact
+Text: Cards in graveyards can't be the targets of spells or abilities.
+{4}, {T}: Exile Silent Gravestone and all cards from all graveyards. Draw a card.
+ 
+
+Name: Silverclad Ferocidons
+Mana Cost: {5}{R}{R}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent sacrifices a permanent.
+ 
+
+Name: Silvergill Adept
+Mana Cost: {1}{U}
+Card Type: Creature — Merfolk Wizard
+Text: As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay {3}.
+When Silvergill Adept enters the battlefield, draw a card.
+ 
+
+Name: Siren Reaver
+Mana Cost: {3}{U}
+Card Type: Creature — Siren Pirate
+Text: Raid — This spell costs {1} less to cast if you attacked with a creature this turn.
+Flying
+ 
+
+Name: Skymarcher Aspirant
+Mana Cost: {W}
+Card Type: Creature — Vampire Soldier
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Skymarcher Aspirant has flying as long as you have the city's blessing.
+ 
+
+Name: Slaughter the Strong
+Mana Cost: {1}{W}{W}
+Card Type: Sorcery
+Text: Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.
+ 
+
+Name: Slippery Scoundrel
+Mana Cost: {2}{U}
+Card Type: Creature — Human Pirate
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+As long as you have the city's blessing, Slippery Scoundrel has hexproof and can't be blocked.
+ 
+
+Name: Snubhorn Sentry
+Mana Cost: {W}
+Card Type: Creature — Dinosaur
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Snubhorn Sentry gets +3/+0 as long as you have the city's blessing.
+ 
+
+Name: Soul of the Rapids
+Mana Cost: {3}{U}{U}
+Card Type: Creature — Elemental
+Text: Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+ 
+
+Name: Sphinx's Decree
+Mana Cost: {1}{W}
+Card Type: Sorcery
+Text: Each opponent can't cast instant or sorcery spells during that player's next turn.
+ 
+
+Name: Spire Winder
+Mana Cost: {3}{U}
+Card Type: Creature — Snake
+Text: Flying
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Spire Winder gets +1/+1 as long as you have the city's blessing.
+ 
+
+Name: Squire's Devotion
+Mana Cost: {2}{W}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +1/+1 and has lifelink.
+When Squire's Devotion enters the battlefield, create a 1/1 white Vampire creature token with lifelink.
+ 
+
+Name: Stampeding Horncrest
+Mana Cost: {4}{R}
+Card Type: Creature — Dinosaur
+Text: Stampeding Horncrest has haste as long as you control another Dinosaur.
+ 
+
+Name: Stone Quarry
+Mana Cost: 
+
+Name: Storm Fleet Sprinter
+Mana Cost: {1}{U}{R}
+Card Type: Creature — Human Pirate
+Text: Haste
+Storm Fleet Sprinter can't be blocked.
+ 
+
+Name: Storm Fleet Swashbuckler
+Mana Cost: {1}{R}
+Card Type: Creature — Human Pirate
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Storm Fleet Swashbuckler has double strike as long as you have the city's blessing.
+ 
+
+Name: Vault of Catlacan
+Mana Cost: 
+
+Name: Storm the Vault
+Mana Cost: {2}{U}{R}
+Card Type: Legendary Enchantment
+Text: Whenever one or more creatures you control deal combat damage to a player, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+At the beginning of your end step, if you control five or more artifacts, transform Storm the Vault.
+ 
+
+Name: Strength of the Pack
+Mana Cost: {4}{G}{G}
+Card Type: Sorcery
+Text: Put two +1/+1 counters on each creature you control.
+ 
+
+Name: Strider Harness
+Mana Cost: {3}
+Card Type: Artifact — Equipment
+Text: Equipped creature gets +1/+1 and has haste.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+ 
+
+Name: Sun Sentinel
+Mana Cost: {1}{W}
+Card Type: Creature — Human Soldier
+Text: Vigilance (Attacking doesn't cause this creature to tap.)
+ 
+
+Name: Sun-Collared Raptor
+Mana Cost: {1}{R}
+Card Type: Creature — Dinosaur
+Text: Trample
+{2}{R}: Sun-Collared Raptor gets +3/+0 until end of turn.
+ 
+
+Name: Sun-Crested Pterodon
+Mana Cost: {4}{W}
+Card Type: Creature — Dinosaur
+Text: Flying
+Sun-Crested Pterodon has vigilance as long as you control another Dinosaur.
+ 
+
+Name: Swab Goblin
+Mana Cost: {1}{R}
+Card Type: Creature — Goblin Pirate
+Text: 
+
+Name: Swaggering Corsair
+Mana Cost: {2}{R}
+Card Type: Creature — Human Pirate
+Text: Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.
+ 
+
+Name: Swamp
+Mana Cost: 
+
+Name: Swift Warden
+Mana Cost: {1}{G}{G}
+Card Type: Creature — Merfolk Warrior
+Text: Flash
+When Swift Warden enters the battlefield, target Merfolk you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+ 
+
+Name: Sworn Guardian
+Mana Cost: {1}{U}
+Card Type: Creature — Merfolk Warrior
+Text: 
+
+Name: Temple Altisaur
+Mana Cost: {4}{W}
+Card Type: Creature — Dinosaur
+Text: If a source would deal damage to another Dinosaur you control, prevent all but 1 of that damage.
+ 
+
+Name: Tendershoot Dryad
+Mana Cost: {4}{G}
+Card Type: Creature — Dryad
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of each upkeep, create a 1/1 green Saproling creature token.
+Saprolings you control get +2/+2 as long as you have the city's blessing.
+ 
+
+Name: Tetzimoc, Primal Death
+Mana Cost: {4}{B}{B}
+Card Type: Legendary Creature — Elder Dinosaur
+Text: Deathtouch
+{B}, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate this ability only during your turn.
+When Tetzimoc enters the battlefield, destroy each creature your opponents control with a prey counter on it.
+ 
+
+Name: The Immortal Sun
+Mana Cost: {6}
+Card Type: Legendary Artifact
+Text: Players can't activate planeswalkers' loyalty abilities.
+At the beginning of your draw step, draw an additional card.
+Spells you cast cost {1} less to cast.
+Creatures you control get +1/+1.
+ 
+
+Name: Thrashing Brontodon
+Mana Cost: {1}{G}{G}
+Card Type: Creature — Dinosaur
+Text: {1}, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment.
+ 
+
+Name: Thunderherd Migration
+Mana Cost: {1}{G}
+Card Type: Sorcery
+Text: As an additional cost to cast this spell, reveal a Dinosaur card from your hand or pay {1}.
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+ 
+
+Name: Tilonalli's Crown
+Mana Cost: {1}{R}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+When Tilonalli's Crown enters the battlefield, it deals 1 damage to enchanted creature.
+Enchanted creature gets +3/+0 and has trample.
+ 
+
+Name: Tilonalli's Summoner
+Mana Cost: {1}{R}
+Card Type: Creature — Human Shaman
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Whenever Tilonalli's Summoner attacks, you may pay {X}{R}. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city's blessing.
+ 
+
+Name: Timestream Navigator
+Mana Cost: {1}{U}
+Card Type: Creature — Human Pirate Wizard
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+{2}{U}{U}, {T}, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing.
+ 
+
+Name: Tomb Robber
+Mana Cost: {2}{B}
+Card Type: Creature — Human Pirate
+Text: Menace
+{1}, Discard a card: Tomb Robber explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+ 
+
+Name: Trapjaw Tyrant
+Mana Cost: {3}{W}{W}
+Card Type: Creature — Dinosaur
+Text: Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature an opponent controls until Trapjaw Tyrant leaves the battlefield.
+ 
+
+Name: Traveler's Amulet
+Mana Cost: {1}
+Card Type: Artifact
+Text: {1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+ 
+
+Name: Twilight Prophet
+Mana Cost: {2}{B}{B}
+Card Type: Creature — Vampire Cleric
+Text: Flying
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's converted mana cost.
+ 
+
+Name: Vampire Champion
+Mana Cost: {3}{B}
+Card Type: Creature — Vampire Soldier
+Text: Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+ 
+
+Name: Vampire Revenant
+Mana Cost: {3}{B}
+Card Type: Creature — Vampire Spirit
+Text: Flying
+ 
+
+Name: Vona's Hunger
+Mana Cost: {2}{B}
+Card Type: Instant
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+Each opponent sacrifices a creature. If you have the city's blessing, instead each opponent sacrifices half the creatures they control, rounded up.
+ 
+
+Name: Voracious Vampire
+Mana Cost: {2}{B}
+Card Type: Creature — Vampire Knight
+Text: Menace
+When Voracious Vampire enters the battlefield, target Vampire you control gets +1/+1 and gains menace until end of turn.
+ 
+
+Name: Vraska's Conquistador
+Mana Cost: {1}{B}
+Card Type: Creature — Vampire Soldier
+Text: Whenever Vraska's Conquistador attacks or blocks, if you control a Vraska planeswalker, target opponent loses 2 life and you gain 2 life.
+ 
+
+Name: Vraska's Scorn
+Mana Cost: {2}{B}{B}
+Card Type: Sorcery
+Text: Target opponent loses 4 life. You may search your library and/or graveyard for a card named Vraska, Scheming Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+ 
+
+Name: Vraska, Scheming Gorgon
+Mana Cost: {4}{B}{B}
+Card Type: Legendary Planeswalker — Vraska
+Text: +2: Creatures you control get +1/+0 until end of turn.
+−3: Destroy target creature.
+−10: Until end of turn, creatures you control gain deathtouch and "Whenever this creature deals damage to an opponent, that player loses the game."
+ 
+
+Name: Warkite Marauder
+Mana Cost: {1}{U}
+Card Type: Creature — Human Pirate
+Text: Flying
+Whenever Warkite Marauder attacks, target creature defending player controls loses all abilities and has base power and toughness 0/1 until end of turn.
+ 
+
+Name: Waterknot
+Mana Cost: {1}{U}{U}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+When Waterknot enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+ 
+
+Name: Wayward Swordtooth
+Mana Cost: {2}{G}
+Card Type: Creature — Dinosaur
+Text: Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+You may play an additional land on each of your turns.
+Wayward Swordtooth can't attack or block unless you have the city's blessing.
+ 
+
+Name: Woodland Stream
+Mana Cost: 
+
+Name: World Shaper
+Mana Cost: {3}{G}
+Card Type: Creature — Merfolk Shaman
+Text: Whenever World Shaper attacks, you may put the top three cards of your library into your graveyard.
+When World Shaper dies, put all land cards from your graveyard onto the battlefield tapped.
+ 
+
+Name: Zacama, Primal Calamity
+Mana Cost: {6}{R}{G}{W}
+Card Type: Legendary Creature — Elder Dinosaur
+Text: Vigilance, reach, trample
+When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all lands you control.
+{2}{R}: Zacama deals 3 damage to target creature.
+{2}{G}: Destroy target artifact or enchantment.
+{2}{W}: You gain 3 life.
+ 
+
+Name: Zetalpa, Primal Dawn
+Mana Cost: {6}{W}{W}
+Card Type: Legendary Creature — Elder Dinosaur
+Text: Flying, double strike, vigilance, trample, indestructible
+ 
+

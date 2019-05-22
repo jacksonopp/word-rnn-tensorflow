@@ -1,0 +1,1766 @@
+Name: Academy Drake
+Mana Cost: {2}{U}
+Card Type: Creature — Drake
+Text: Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Flying
+If Academy Drake was kicked, it enters the battlefield with two +1/+1 counters on it.
+ 
+
+Name: Academy Journeymage
+Mana Cost: {4}{U}
+Card Type: Creature — Human Wizard
+Text: This spell costs {1} less to cast if you control a Wizard.
+When Academy Journeymage enters the battlefield, return target creature an opponent controls to its owner's hand.
+ 
+
+Name: Adamant Will
+Mana Cost: {1}{W}
+Card Type: Instant
+Text: Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+ 
+
+Name: Adeliz, the Cinder Wind
+Mana Cost: {1}{U}{R}
+Card Type: Legendary Creature — Human Wizard
+Text: Flying, haste
+Whenever you cast an instant or sorcery spell, Wizards you control get +1/+1 until end of turn.
+ 
+
+Name: Adventurous Impulse
+Mana Cost: {G}
+Card Type: Sorcery
+Text: Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+ 
+
+Name: Aesthir Glider
+Mana Cost: {3}
+Card Type: Artifact Creature — Bird Construct
+Text: Flying
+Aesthir Glider can't block.
+ 
+
+Name: Amaranthine Wall
+Mana Cost: {4}
+Card Type: Artifact Creature — Wall
+Text: Defender
+{2}: Amaranthine Wall gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+ 
+
+Name: Ancient Animus
+Mana Cost: {1}{G}
+Card Type: Instant
+Text: Put a +1/+1 counter on target creature you control if it's legendary. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
+ 
+
+Name: Arbor Armament
+Mana Cost: {G}
+Card Type: Instant
+Text: Put a +1/+1 counter on target creature. That creature gains reach until end of turn.
+ 
+
+Name: Arcane Flight
+Mana Cost: {U}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+ 
+
+Name: Artificer's Assistant
+Mana Cost: {U}
+Card Type: Creature — Bird
+Text: Flying
+Whenever you cast a historic spell, scry 1. (Artifacts, legendaries, and Sagas are historic. To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+ 
+
+Name: Arvad the Cursed
+Mana Cost: {3}{W}{B}
+Card Type: Legendary Creature — Vampire Knight
+Text: Deathtouch, lifelink
+Other legendary creatures you control get +2/+2.
+ 
+
+Name: Aryel, Knight of Windgrace
+Mana Cost: {2}{W}{B}
+Card Type: Legendary Creature — Human Knight
+Text: Vigilance
+{2}{W}, {T}: Create a 2/2 white Knight creature token with vigilance.
+{B}, {T}, Tap X untapped Knights you control: Destroy target creature with power X or less.
+ 
+
+Name: Aven Sentry
+Mana Cost: {3}{W}
+Card Type: Creature — Bird Soldier
+Text: Flying
+ 
+
+Name: Baird, Steward of Argive
+Mana Cost: {2}{W}{W}
+Card Type: Legendary Creature — Human Soldier
+Text: Vigilance
+Creatures can't attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.
+ 
+
+Name: Baloth Gorger
+Mana Cost: {2}{G}{G}
+Card Type: Creature — Beast
+Text: Kicker {4} (You may pay an additional {4} as you cast this spell.)
+If Baloth Gorger was kicked, it enters the battlefield with three +1/+1 counters on it.
+ 
+
+Name: Befuddle
+Mana Cost: {2}{U}
+Card Type: Instant
+Text: Target creature gets -4/-0 until end of turn.
+Draw a card.
+ 
+
+Name: Benalish Honor Guard
+Mana Cost: {1}{W}
+Card Type: Creature — Human Knight
+Text: Benalish Honor Guard gets +1/+0 for each legendary creature you control.
+ 
+
+Name: Benalish Marshal
+Mana Cost: {W}{W}{W}
+Card Type: Creature — Human Knight
+Text: Other creatures you control get +1/+1.
+ 
+
+Name: Blackblade Reforged
+Mana Cost: {2}
+Card Type: Legendary Artifact — Equipment
+Text: Equipped creature gets +1/+1 for each land you control.
+Equip legendary creature {3}
+Equip {7}
+ 
+
+Name: Blessed Light
+Mana Cost: {4}{W}
+Card Type: Instant
+Text: Exile target creature or enchantment.
+ 
+
+Name: Blessing of Belzenlok
+Mana Cost: {B}
+Card Type: Instant
+Text: Target creature gets +2/+1 until end of turn. If it's legendary, it also gains lifelink until end of turn.
+ 
+
+Name: Blink of an Eye
+Mana Cost: {1}{U}
+Card Type: Instant
+Text: Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.
+ 
+
+Name: Bloodstone Goblin
+Mana Cost: {1}{R}
+Card Type: Creature — Goblin Warrior
+Text: Whenever you cast a spell, if that spell was kicked, Bloodstone Goblin gets +1/+1 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+ 
+
+Name: Bloodtallow Candle
+Mana Cost: {1}
+Card Type: Artifact
+Text: {6}, {T}, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 until end of turn.
+ 
+
+Name: Board the Weatherlight
+Mana Cost: {1}{W}
+Card Type: Sorcery
+Text: Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Broken Bond
+Mana Cost: {1}{G}
+Card Type: Sorcery
+Text: Destroy target artifact or enchantment. You may put a land card from your hand onto the battlefield.
+ 
+
+Name: Cabal Evangel
+Mana Cost: {1}{B}
+Card Type: Creature — Human Cleric
+Text: 
+
+Name: Cabal Paladin
+Mana Cost: {3}{B}
+Card Type: Creature — Human Knight
+Text: Whenever you cast a historic spell, Cabal Paladin deals 2 damage to each opponent. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Cabal Stronghold
+Mana Cost: 
+
+Name: Caligo Skin-Witch
+Mana Cost: {1}{B}
+Card Type: Creature — Human Wizard
+Text: Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)
+When Caligo Skin-Witch enters the battlefield, if it was kicked, each opponent discards two cards.
+ 
+
+Name: Call the Cavalry
+Mana Cost: {3}{W}
+Card Type: Sorcery
+Text: Create two 2/2 white Knight creature tokens with vigilance.
+ 
+
+Name: Cast Down
+Mana Cost: {1}{B}
+Card Type: Instant
+Text: Destroy target nonlegendary creature.
+ 
+
+Name: Chainer's Torment
+Mana Cost: {3}{B}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Chainer's Torment deals 2 damage to each opponent and you gain 2 life.
+III — Create an X/X black Nightmare Horror creature token, where X is half your life total, rounded up. It deals X damage to you.
+ 
+
+Name: Champion of the Flame
+Mana Cost: {1}{R}
+Card Type: Creature — Human Warrior
+Text: Trample
+Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it.
+ 
+
+Name: Chandra's Outburst
+Mana Cost: {3}{R}{R}
+Card Type: Sorcery
+Text: Chandra's Outburst deals 4 damage to target player or planeswalker.
+Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+ 
+
+Name: Chandra, Bold Pyromancer
+Mana Cost: {4}{R}{R}
+Card Type: Legendary Planeswalker — Chandra
+Text: +1: Add {R}{R}. Chandra, Bold Pyromancer deals 2 damage to target player.
+−3: Chandra, Bold Pyromancer deals 3 damage to target creature or planeswalker.
+−7: Chandra, Bold Pyromancer deals 10 damage to target player and each creature and planeswalker they control.
+ 
+
+Name: Charge
+Mana Cost: {W}
+Card Type: Instant
+Text: Creatures you control get +1/+1 until end of turn.
+ 
+
+Name: Clifftop Retreat
+Mana Cost: 
+
+Name: Cloudreader Sphinx
+Mana Cost: {4}{U}
+Card Type: Creature — Sphinx
+Text: Flying
+When Cloudreader Sphinx enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+ 
+
+Name: Cold-Water Snapper
+Mana Cost: {5}{U}
+Card Type: Creature — Turtle
+Text: Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+ 
+
+Name: Corrosive Ooze
+Mana Cost: {1}{G}
+Card Type: Creature — Ooze
+Text: Whenever Corrosive Ooze blocks or becomes blocked by an equipped creature, destroy all Equipment attached to that creature at end of combat.
+ 
+
+Name: Curator's Ward
+Mana Cost: {2}{U}
+Card Type: Enchantment — Aura
+Text: Enchant permanent
+Enchanted permanent has hexproof.
+When enchanted permanent leaves the battlefield, if it was historic, draw two cards. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: D'Avenant Trapper
+Mana Cost: {2}{W}
+Card Type: Creature — Human Archer
+Text: Whenever you cast a historic spell, tap target creature an opponent controls. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Damping Sphere
+Mana Cost: {2}
+Card Type: Artifact
+Text: If a land is tapped for two or more mana, it produces {C} instead of any other type and amount.
+Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn.
+ 
+
+Name: Danitha Capashen, Paragon
+Mana Cost: {2}{W}
+Card Type: Legendary Creature — Human Knight
+Text: First strike, vigilance, lifelink
+Aura and Equipment spells you cast cost {1} less to cast.
+ 
+
+Name: Darigaaz Reincarnated
+Mana Cost: {4}{B}{R}{G}
+Card Type: Legendary Creature — Dragon
+Text: Flying, trample, haste
+If Darigaaz Reincarnated would die, instead exile it with three egg counters on it.
+At the beginning of your upkeep, if Darigaaz is exiled with an egg counter on it, remove an egg counter from it. Then if Darigaaz has no egg counters on it, return it to the battlefield.
+ 
+
+Name: Daring Archaeologist
+Mana Cost: {3}{W}
+Card Type: Creature — Human Artificer
+Text: When Daring Archaeologist enters the battlefield, you may return target artifact card from your graveyard to your hand.
+Whenever you cast a historic spell, put a +1/+1 counter on Daring Archaeologist. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Dark Bargain
+Mana Cost: {3}{B}
+Card Type: Instant
+Text: Look at the top three cards of your library. Put two of them into your hand and the other into your graveyard. Dark Bargain deals 2 damage to you.
+ 
+
+Name: Dauntless Bodyguard
+Mana Cost: {W}
+Card Type: Creature — Human Knight
+Text: As Dauntless Bodyguard enters the battlefield, choose another creature you control.
+Sacrifice Dauntless Bodyguard: The chosen creature gains indestructible until end of turn.
+ 
+
+Name: Deathbloom Thallid
+Mana Cost: {2}{B}
+Card Type: Creature — Fungus
+Text: When Deathbloom Thallid dies, create a 1/1 green Saproling creature token.
+ 
+
+Name: Deep Freeze
+Mana Cost: {2}{U}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature has base power and toughness 0/4, has defender, loses all other abilities, and is a blue Wall in addition to its other colors and types.
+ 
+
+Name: Demonic Vigor
+Mana Cost: {B}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +1/+1.
+When enchanted creature dies, return that card to its owner's hand.
+ 
+
+Name: Demonlord Belzenlok
+Mana Cost: {4}{B}{B}
+Card Type: Legendary Creature — Elder Demon
+Text: Flying, trample
+When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's converted mana cost is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way.
+ 
+
+Name: Diligent Excavator
+Mana Cost: {1}{U}
+Card Type: Creature — Human Artificer
+Text: Whenever you cast a historic spell, target player puts the top two cards of their library into their graveyard. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Divest
+Mana Cost: {B}
+Card Type: Sorcery
+Text: Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.
+ 
+
+Name: Divination
+Mana Cost: {2}{U}
+Card Type: Sorcery
+Text: Draw two cards.
+ 
+
+Name: Dread Shade
+Mana Cost: {B}{B}{B}
+Card Type: Creature — Shade
+Text: {B}: Dread Shade gets +1/+1 until end of turn.
+ 
+
+Name: Drudge Sentinel
+Mana Cost: {2}{B}
+Card Type: Creature — Skeleton Warrior
+Text: {3}: Tap Drudge Sentinel. It gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+ 
+
+Name: Dub
+Mana Cost: {2}{W}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types.
+ 
+
+Name: Elfhame Druid
+Mana Cost: {1}{G}
+Card Type: Creature — Elf Druid
+Text: {T}: Add {G}.
+{T}: Add {G}{G}. Spend this mana only to cast kicked spells.
+ 
+
+Name: Eviscerate
+Mana Cost: {3}{B}
+Card Type: Sorcery
+Text: Destroy target creature.
+ 
+
+Name: Evra, Halcyon Witness
+Mana Cost: {4}{W}{W}
+Card Type: Legendary Creature — Avatar
+Text: Lifelink
+{4}: Exchange your life total with Evra, Halcyon Witness's power.
+ 
+
+Name: Excavation Elephant
+Mana Cost: {4}{W}
+Card Type: Creature — Elephant
+Text: Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+When Excavation Elephant enters the battlefield, if it was kicked, return target artifact card from your graveyard to your hand.
+ 
+
+Name: Fall of the Thran
+Mana Cost: {5}{W}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy all lands.
+II, III — Each player returns two land cards from their graveyard to the battlefield.
+ 
+
+Name: Feral Abomination
+Mana Cost: {5}{B}
+Card Type: Creature — Thrull
+Text: Deathtouch
+ 
+
+Name: Fervent Strike
+Mana Cost: {R}
+Card Type: Instant
+Text: Target creature gets +1/+0 and gains first strike and haste until end of turn.
+ 
+
+Name: Fiery Intervention
+Mana Cost: {4}{R}
+Card Type: Sorcery
+Text: Choose one —
+• Fiery Intervention deals 5 damage to target creature.
+• Destroy target artifact.
+ 
+
+Name: Fight with Fire
+Mana Cost: {2}{R}
+Card Type: Sorcery
+Text: Kicker {5}{R} (You may pay an additional {5}{R} as you cast this spell.)
+Fight with Fire deals 5 damage to target creature. If this spell was kicked, it deals 10 damage divided as you choose among any number of targets instead. (Those targets can include players and planeswalkers.)
+ 
+
+Name: Final Parting
+Mana Cost: {3}{B}{B}
+Card Type: Sorcery
+Text: Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle your library.
+ 
+
+Name: Fire Elemental
+Mana Cost: {3}{R}{R}
+Card Type: Creature — Elemental
+Text: 
+
+Name: Firefist Adept
+Mana Cost: {4}{R}
+Card Type: Creature — Human Wizard
+Text: When Firefist Adept enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of Wizards you control.
+ 
+
+Name: Firesong and Sunspeaker
+Mana Cost: {4}{R}{W}
+Card Type: Legendary Creature — Minotaur Cleric
+Text: Red instant and sorcery spells you control have lifelink.
+Whenever a white instant or sorcery spell causes you to gain life, Firesong and Sunspeaker deals 3 damage to target creature or player.
+ 
+
+Name: Forebear's Blade
+Mana Cost: {3}
+Card Type: Artifact — Equipment
+Text: Equipped creature gets +3/+0 and has vigilance and trample.
+Whenever equipped creature dies, attach Forebear's Blade to target creature you control.
+Equip {3}
+ 
+
+Name: Forest
+Mana Cost: 
+
+Name: Forest
+Mana Cost: 
+
+Name: Forest
+Mana Cost: 
+
+Name: Forest
+Mana Cost: 
+
+Name: Frenzied Rage
+Mana Cost: {1}{R}
+Card Type: Enchantment — Aura
+Text: Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)
+ 
+
+Name: Fungal Infection
+Mana Cost: {B}
+Card Type: Instant
+Text: Target creature gets -1/-1 until end of turn. Create a 1/1 green Saproling creature token.
+ 
+
+Name: Fungal Plots
+Mana Cost: {1}{G}
+Card Type: Enchantment
+Text: {1}{G}, Exile a creature card from your graveyard: Create a 1/1 green Saproling creature token.
+Sacrifice two Saprolings: You gain 2 life and draw a card.
+ 
+
+Name: Gaea's Blessing
+Mana Cost: {1}{G}
+Card Type: Sorcery
+Text: Target player shuffles up to three target cards from their graveyard into their library.
+Draw a card.
+When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.
+ 
+
+Name: Gaea's Protector
+Mana Cost: {3}{G}
+Card Type: Creature — Elemental Warrior
+Text: Gaea's Protector must be blocked if able.
+ 
+
+Name: Garna, the Bloodflame
+Mana Cost: {3}{B}{R}
+Card Type: Legendary Creature — Human Warrior
+Text: Flash
+When Garna, the Bloodflame enters the battlefield, return to your hand all creature cards in your graveyard that were put there from anywhere this turn.
+Other creatures you control have haste.
+ 
+
+Name: Ghitu Chronicler
+Mana Cost: {1}{R}
+Card Type: Creature — Human Wizard
+Text: Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+When Ghitu Chronicler enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand.
+ 
+
+Name: Ghitu Journeymage
+Mana Cost: {2}{R}
+Card Type: Creature — Human Wizard
+Text: When Ghitu Journeymage enters the battlefield, if you control another Wizard, Ghitu Journeymage deals 2 damage to each opponent.
+ 
+
+Name: Ghitu Lavarunner
+Mana Cost: {R}
+Card Type: Creature — Human Wizard
+Text: As long as there are two or more instant and/or sorcery cards in your graveyard, Ghitu Lavarunner gets +1/+0 and has haste.
+ 
+
+Name: Gideon's Reproach
+Mana Cost: {1}{W}
+Card Type: Instant
+Text: Gideon's Reproach deals 4 damage to target attacking or blocking creature.
+ 
+
+Name: Gift of Growth
+Mana Cost: {1}{G}
+Card Type: Instant
+Text: Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Untap target creature. It gets +2/+2 until end of turn. If this spell was kicked, that creature gets +4/+4 until end of turn instead.
+ 
+
+Name: Gilded Lotus
+Mana Cost: {5}
+Card Type: Artifact
+Text: {T}: Add three mana of any one color.
+ 
+
+Name: Goblin Barrage
+Mana Cost: {3}{R}
+Card Type: Sorcery
+Text: Kicker—Sacrifice an artifact or Goblin. (You may sacrifice an artifact or Goblin in addition to any other costs as you cast this spell.)
+Goblin Barrage deals 4 damage to target creature. If this spell was kicked, it also deals 4 damage to target player or planeswalker.
+ 
+
+Name: Goblin Chainwhirler
+Mana Cost: {R}{R}{R}
+Card Type: Creature — Goblin Warrior
+Text: First strike
+When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each opponent and each creature and planeswalker they control.
+ 
+
+Name: Goblin Warchief
+Mana Cost: {1}{R}{R}
+Card Type: Creature — Goblin Warrior
+Text: Goblin spells you cast cost {1} less to cast.
+Goblins you control have haste.
+ 
+
+Name: Grand Warlord Radha
+Mana Cost: {2}{R}{G}
+Card Type: Legendary Creature — Elf Warrior
+Text: Haste
+Whenever one or more creatures you control attack, add that much mana in any combination of {R} and/or {G}. Until end of turn, you don't lose this mana as steps and phases end.
+ 
+
+Name: Grow from the Ashes
+Mana Cost: {2}{G}
+Card Type: Sorcery
+Text: Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card, put it onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library.
+ 
+
+Name: Grunn, the Lonely King
+Mana Cost: {4}{G}{G}
+Card Type: Legendary Creature — Ape Warrior
+Text: Kicker {3} (You may pay an additional {3} as you cast this spell.)
+If Grunn, the Lonely King was kicked, it enters the battlefield with five +1/+1 counters on it.
+Whenever Grunn attacks alone, double its power and toughness until end of turn.
+ 
+
+Name: Guardians of Koilos
+Mana Cost: {5}
+Card Type: Artifact Creature — Construct
+Text: When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Hallar, the Firefletcher
+Mana Cost: {1}{R}{G}
+Card Type: Legendary Creature — Elf Archer
+Text: Trample
+Whenever you cast a spell, if that spell was kicked, put a +1/+1 counter on Hallar, the Firefletcher, then Hallar deals damage equal to the number of +1/+1 counters on it to each opponent.
+ 
+
+Name: Haphazard Bombardment
+Mana Cost: {5}{R}
+Card Type: Enchantment
+Text: When Haphazard Bombardment enters the battlefield, choose four nonenchantment permanents you don't control and put an aim counter on each of them.
+At the beginning of your end step, if two or more permanents you don't control have an aim counter on them, destroy one of those permanents at random.
+ 
+
+Name: Healing Grace
+Mana Cost: {W}
+Card Type: Instant
+Text: Prevent the next 3 damage that would be dealt to any target this turn by a source of your choice. You gain 3 life.
+ 
+
+Name: Helm of the Host
+Mana Cost: {4}
+Card Type: Legendary Artifact — Equipment
+Text: At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
+Equip {5}
+ 
+
+Name: Hinterland Harbor
+Mana Cost: 
+
+Name: History of Benalia
+Mana Cost: {1}{W}{W}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 2/2 white Knight creature token with vigilance.
+III — Knights you control get +2/+1 until end of turn.
+ 
+
+Name: Homarid Explorer
+Mana Cost: {3}{U}
+Card Type: Creature — Homarid Scout
+Text: When Homarid Explorer enters the battlefield, target player puts the top four cards of their library into their graveyard.
+ 
+
+Name: Howling Golem
+Mana Cost: {3}
+Card Type: Artifact Creature — Golem
+Text: Whenever Howling Golem attacks or blocks, each player draws a card.
+ 
+
+Name: Icy Manipulator
+Mana Cost: {4}
+Card Type: Artifact
+Text: {1}, {T}: Tap target artifact, creature, or land.
+ 
+
+Name: In Bolas's Clutches
+Mana Cost: {4}{U}{U}
+Card Type: Legendary Enchantment — Aura
+Text: Enchant permanent
+You control enchanted permanent.
+Enchanted permanent is legendary.
+ 
+
+Name: Invoke the Divine
+Mana Cost: {2}{W}
+Card Type: Instant
+Text: Destroy target artifact or enchantment. You gain 4 life.
+ 
+
+Name: Island
+Mana Cost: 
+
+Name: Island
+Mana Cost: 
+
+Name: Island
+Mana Cost: 
+
+Name: Island
+Mana Cost: 
+
+Name: Isolated Chapel
+Mana Cost: 
+
+Name: Jaya Ballard
+Mana Cost: {2}{R}{R}{R}
+Card Type: Legendary Planeswalker — Jaya
+Text: +1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
++1: Discard up to three cards, then draw that many cards.
+−8: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."
+ 
+
+Name: Jaya's Immolating Inferno
+Mana Cost: {X}{R}{R}
+Card Type: Legendary Sorcery
+Text: (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Jaya's Immolating Inferno deals X damage to each of up to three targets.
+ 
+
+Name: Jhoira's Familiar
+Mana Cost: {4}
+Card Type: Artifact Creature — Bird
+Text: Flying
+Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Jhoira, Weatherlight Captain
+Mana Cost: {2}{U}{R}
+Card Type: Legendary Creature — Human Artificer
+Text: Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Jodah, Archmage Eternal
+Mana Cost: {1}{U}{R}{W}
+Card Type: Legendary Creature — Human Wizard
+Text: Flying
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.
+ 
+
+Name: Josu Vess, Lich Knight
+Mana Cost: {2}{B}{B}
+Card Type: Legendary Creature — Zombie Knight
+Text: Kicker {5}{B} (You may pay an additional {5}{B} as you cast this spell.)
+Menace
+When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create eight 2/2 black Zombie Knight creature tokens with menace.
+ 
+
+Name: Jousting Lance
+Mana Cost: {2}
+Card Type: Artifact — Equipment
+Text: Equipped creature gets +2/+0.
+As long as it's your turn, equipped creature has first strike.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+ 
+
+Name: Juggernaut
+Mana Cost: {4}
+Card Type: Artifact Creature — Juggernaut
+Text: Juggernaut attacks each combat if able.
+Juggernaut can't be blocked by Walls.
+ 
+
+Name: Kamahl's Druidic Vow
+Mana Cost: {X}{G}{G}
+Card Type: Legendary Sorcery
+Text: (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with converted mana cost X or less from among them onto the battlefield. Put the rest into your graveyard.
+ 
+
+Name: Karn's Temporal Sundering
+Mana Cost: {4}{U}{U}
+Card Type: Legendary Sorcery
+Text: (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Target player takes an extra turn after this one. Return up to one target nonland permanent to its owner's hand. Exile Karn's Temporal Sundering.
+ 
+
+Name: Karn, Scion of Urza
+Mana Cost: {4}
+Card Type: Legendary Planeswalker — Karn
+Text: +1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+−1: Put a card you own with a silver counter on it from exile into your hand.
+−2: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."
+ 
+
+Name: Karplusan Hound
+Mana Cost: {3}{R}
+Card Type: Creature — Hound
+Text: Whenever Karplusan Hound attacks, if you control a Chandra planeswalker, this creature deals 2 damage to any target.
+ 
+
+Name: Kazarov, Sengir Pureblood
+Mana Cost: {5}{B}{B}
+Card Type: Legendary Creature — Vampire
+Text: Flying
+Whenever a creature an opponent controls is dealt damage, put a +1/+1 counter on Kazarov, Sengir Pureblood.
+{3}{R}: Kazarov deals 2 damage to target creature.
+ 
+
+Name: Keldon Overseer
+Mana Cost: {2}{R}
+Card Type: Creature — Human Warrior
+Text: Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+Haste
+When Keldon Overseer enters the battlefield, if it was kicked, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+ 
+
+Name: Keldon Raider
+Mana Cost: {2}{R}{R}
+Card Type: Creature — Human Warrior
+Text: When Keldon Raider enters the battlefield, you may discard a card. If you do, draw a card.
+ 
+
+Name: Keldon Warcaller
+Mana Cost: {1}{R}
+Card Type: Creature — Human Warrior
+Text: Whenever Keldon Warcaller attacks, put a lore counter on target Saga you control.
+ 
+
+Name: Knight of Grace
+Mana Cost: {1}{W}
+Card Type: Creature — Human Knight
+Text: First strike
+Hexproof from black (This creature can't be the target of black spells or abilities your opponents control.)
+Knight of Grace gets +1/+0 as long as any player controls a black permanent.
+ 
+
+Name: Knight of Malice
+Mana Cost: {1}{B}
+Card Type: Creature — Human Knight
+Text: First strike
+Hexproof from white (This creature can't be the target of white spells or abilities your opponents control.)
+Knight of Malice gets +1/+0 as long as any player controls a white permanent.
+ 
+
+Name: Knight of New Benalia
+Mana Cost: {1}{W}
+Card Type: Creature — Human Knight
+Text: 
+
+Name: Krosan Druid
+Mana Cost: {2}{G}
+Card Type: Creature — Centaur Druid
+Text: Kicker {4}{G} (You may pay an additional {4}{G} as you cast this spell.)
+When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life.
+ 
+
+Name: Kwende, Pride of Femeref
+Mana Cost: {3}{W}
+Card Type: Legendary Creature — Human Knight
+Text: Double strike
+Creatures you control with first strike have double strike.
+ 
+
+Name: Lich's Mastery
+Mana Cost: {3}{B}{B}{B}
+Card Type: Legendary Enchantment
+Text: Hexproof
+You can't lose the game.
+Whenever you gain life, draw that many cards.
+Whenever you lose life, for each 1 life you lost, exile a permanent you control or a card from your hand or graveyard.
+When Lich's Mastery leaves the battlefield, you lose the game.
+ 
+
+Name: Lingering Phantom
+Mana Cost: {5}{B}
+Card Type: Creature — Spirit
+Text: Whenever you cast a historic spell, you may pay {B}. If you do, return Lingering Phantom from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Llanowar Elves
+Mana Cost: {G}
+Card Type: Creature — Elf Druid
+Text: {T}: Add {G}.
+ 
+
+Name: Llanowar Envoy
+Mana Cost: {2}{G}
+Card Type: Creature — Elf Scout
+Text: {1}{G}: Add one mana of any color.
+ 
+
+Name: Llanowar Scout
+Mana Cost: {1}{G}
+Card Type: Creature — Elf Scout
+Text: {T}: You may put a land card from your hand onto the battlefield.
+ 
+
+Name: Lyra Dawnbringer
+Mana Cost: {3}{W}{W}
+Card Type: Legendary Creature — Angel
+Text: Flying, first strike, lifelink
+Other Angels you control get +1/+1 and have lifelink.
+ 
+
+Name: Mammoth Spider
+Mana Cost: {4}{G}
+Card Type: Creature — Spider
+Text: Reach
+ 
+
+Name: Marwyn, the Nurturer
+Mana Cost: {2}{G}
+Card Type: Legendary Creature — Elf Druid
+Text: Whenever another Elf enters the battlefield under your control, put a +1/+1 counter on Marwyn, the Nurturer.
+{T}: Add an amount of {G} equal to Marwyn's power.
+ 
+
+Name: Meandering River
+Mana Cost: 
+
+Name: Memorial to Folly
+Mana Cost: 
+
+Name: Memorial to Genius
+Mana Cost: 
+
+Name: Memorial to Glory
+Mana Cost: 
+
+Name: Memorial to Unity
+Mana Cost: 
+
+Name: Memorial to War
+Mana Cost: 
+
+Name: Merfolk Trickster
+Mana Cost: {U}{U}
+Card Type: Creature — Merfolk Wizard
+Text: Flash
+When Merfolk Trickster enters the battlefield, tap target creature an opponent controls. It loses all abilities until end of turn.
+ 
+
+Name: Mesa Unicorn
+Mana Cost: {1}{W}
+Card Type: Creature — Unicorn
+Text: Lifelink
+ 
+
+Name: Mishra's Self-Replicator
+Mana Cost: {5}
+Card Type: Artifact Creature — Assembly-Worker
+Text: Whenever you cast a historic spell, you may pay {1}. If you do, create a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Mountain
+Mana Cost: 
+
+Name: Mox Amber
+Mana Cost: {0}
+Card Type: Legendary Artifact
+Text: {T}: Add one mana of any color among legendary creatures and planeswalkers you control.
+ 
+
+Name: Muldrotha, the Gravetide
+Mana Cost: {3}{B}{G}{U}
+Card Type: Legendary Creature — Elemental Avatar
+Text: During each of your turns, you may play up to one permanent card of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)
+ 
+
+Name: Multani, Yavimaya's Avatar
+Mana Cost: {4}{G}{G}
+Card Type: Legendary Creature — Elemental Avatar
+Text: Reach, trample
+Multani, Yavimaya's Avatar gets +1/+1 for each land you control and each land card in your graveyard.
+{1}{G}, Return two lands you control to their owner's hand: Return Multani from your graveyard to your hand.
+ 
+
+Name: Naban, Dean of Iteration
+Mana Cost: {1}{U}
+Card Type: Legendary Creature — Human Wizard
+Text: If a Wizard entering the battlefield under your control causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+ 
+
+Name: Naru Meha, Master Wizard
+Mana Cost: {2}{U}{U}
+Card Type: Legendary Creature — Human Wizard
+Text: Flash
+When Naru Meha, Master Wizard enters the battlefield, copy target instant or sorcery spell you control. You may choose new targets for the copy.
+Other Wizards you control get +1/+1.
+ 
+
+Name: Nature's Spiral
+Mana Cost: {1}{G}
+Card Type: Sorcery
+Text: Return target permanent card from your graveyard to your hand.
+ 
+
+Name: Navigator's Compass
+Mana Cost: {1}
+Card Type: Artifact
+Text: When Navigator's Compass enters the battlefield, you gain 3 life.
+{T}: Until end of turn, target land you control becomes the basic land type of your choice in addition to its other types.
+ 
+
+Name: Niambi, Faithful Healer
+Mana Cost: {1}{W}{U}
+Card Type: Legendary Creature — Human Cleric
+Text: When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+ 
+
+Name: Oath of Teferi
+Mana Cost: {3}{W}{U}
+Card Type: Legendary Enchantment
+Text: When Oath of Teferi enters the battlefield, exile another target permanent you control. Return it to the battlefield under its owner's control at the beginning of the next end step.
+You may activate the loyalty abilities of planeswalkers you control twice each turn rather than only once.
+ 
+
+Name: On Serra's Wings
+Mana Cost: {3}{W}
+Card Type: Legendary Enchantment — Aura
+Text: Enchant creature
+Enchanted creature is legendary, gets +1/+1, and has flying, vigilance, and lifelink.
+ 
+
+Name: Opt
+Mana Cost: {U}
+Card Type: Instant
+Text: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Draw a card.
+ 
+
+Name: Orcish Vandal
+Mana Cost: {1}{R}
+Card Type: Creature — Orc Warrior
+Text: {T}, Sacrifice an artifact: Orcish Vandal deals 2 damage to any target.
+ 
+
+Name: Pardic Wanderer
+Mana Cost: {6}
+Card Type: Artifact Creature — Golem
+Text: Trample
+ 
+
+Name: Pegasus Courser
+Mana Cost: {2}{W}
+Card Type: Creature — Pegasus
+Text: Flying
+Whenever Pegasus Courser attacks, another target attacking creature gains flying until end of turn.
+ 
+
+Name: Phyrexian Scriptures
+Mana Cost: {2}{B}{B}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put a +1/+1 counter on up to one target creature. That creature becomes an artifact in addition to its other types.
+II — Destroy all nonartifact creatures.
+III — Exile all cards from all opponents' graveyards.
+ 
+
+Name: Pierce the Sky
+Mana Cost: {1}{G}
+Card Type: Instant
+Text: Pierce the Sky deals 7 damage to target creature with flying.
+ 
+
+Name: Plains
+Mana Cost: 
+
+Name: Plains
+Mana Cost: 
+
+Name: Plains
+Mana Cost: 
+
+Name: Plains
+Mana Cost: 
+
+Name: Powerstone Shard
+Mana Cost: {3}
+Card Type: Artifact
+Text: {T}: Add {C} for each artifact you control named Powerstone Shard.
+ 
+
+Name: Precognition Field
+Mana Cost: {3}{U}
+Card Type: Enchantment
+Text: You may look at the top card of your library any time.
+You may cast the top card of your library if it's an instant or sorcery card.
+{3}: Exile the top card of your library.
+ 
+
+Name: Primevals' Glorious Rebirth
+Mana Cost: {5}{W}{B}
+Card Type: Legendary Sorcery
+Text: (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Return all legendary permanent cards from your graveyard to the battlefield.
+ 
+
+Name: Primordial Wurm
+Mana Cost: {4}{G}{G}
+Card Type: Creature — Wurm
+Text: 
+
+Name: Pyromantic Pilgrim
+Mana Cost: {2}{R}
+Card Type: Creature — Human Wizard
+Text: Haste (This creature can attack and {T} as soon as it comes under your control.)
+ 
+
+Name: Radiating Lightning
+Mana Cost: {3}{R}
+Card Type: Instant
+Text: Radiating Lightning deals 3 damage to target player and 1 damage to each creature that player controls.
+ 
+
+Name: Raff Capashen, Ship's Mage
+Mana Cost: {2}{W}{U}
+Card Type: Legendary Creature — Human Wizard
+Text: Flash
+Flying
+You may cast historic spells as though they had flash. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Rampaging Cyclops
+Mana Cost: {3}{R}
+Card Type: Creature — Cyclops
+Text: Rampaging Cyclops gets -2/-0 as long as two or more creatures are blocking it.
+ 
+
+Name: Rat Colony
+Mana Cost: {1}{B}
+Card Type: Creature — Rat
+Text: Rat Colony gets +1/+0 for each other Rat you control.
+A deck can have any number of cards named Rat Colony.
+ 
+
+Name: Relic Runner
+Mana Cost: {1}{U}
+Card Type: Creature — Human Rogue
+Text: Relic Runner can't be blocked if you've cast a historic spell this turn. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Rescue
+Mana Cost: {U}
+Card Type: Instant
+Text: Return target permanent you control to its owner's hand.
+ 
+
+Name: Rite of Belzenlok
+Mana Cost: {2}{B}{B}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create two 0/1 black Cleric creature tokens.
+III — Create a 6/6 black Demon creature token with flying, trample, and "At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you."
+ 
+
+Name: Rona, Disciple of Gix
+Mana Cost: {1}{U}{B}
+Card Type: Legendary Creature — Human Artificer
+Text: When Rona, Disciple of Gix enters the battlefield, you may exile target historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)
+You may cast nonland cards exiled with Rona.
+{4}, {T}: Exile the top card of your library.
+ 
+
+Name: Run Amok
+Mana Cost: {1}{R}
+Card Type: Instant
+Text: Target attacking creature gets +3/+3 and gains trample until end of turn.
+ 
+
+Name: Sage of Lat-Nam
+Mana Cost: {1}{U}
+Card Type: Creature — Human Artificer
+Text: {T}, Sacrifice an artifact: Draw a card.
+ 
+
+Name: Sanctum Spirit
+Mana Cost: {3}{W}
+Card Type: Creature — Spirit
+Text: Lifelink
+Discard a historic card: Sanctum Spirit gains indestructible until end of turn. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Saproling Migration
+Mana Cost: {1}{G}
+Card Type: Sorcery
+Text: Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Create two 1/1 green Saproling creature tokens. If this spell was kicked, create four of those tokens instead.
+ 
+
+Name: Seal Away
+Mana Cost: {1}{W}
+Card Type: Enchantment
+Text: Flash
+When Seal Away enters the battlefield, exile target tapped creature an opponent controls until Seal Away leaves the battlefield.
+ 
+
+Name: Seismic Shift
+Mana Cost: {3}{R}
+Card Type: Sorcery
+Text: Destroy target land. Up to two target creatures can't block this turn.
+ 
+
+Name: Sentinel of the Pearl Trident
+Mana Cost: {4}{U}
+Card Type: Creature — Merfolk Soldier
+Text: Flash
+When Sentinel of the Pearl Trident enters the battlefield, you may exile target historic permanent you control. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Sergeant-at-Arms
+Mana Cost: {2}{W}
+Card Type: Creature — Human Soldier
+Text: Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+When Sergeant-at-Arms enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens.
+ 
+
+Name: Serra Angel
+Mana Cost: {3}{W}{W}
+Card Type: Creature — Angel
+Text: Flying, vigilance
+ 
+
+Name: Serra Disciple
+Mana Cost: {1}{W}
+Card Type: Creature — Bird Cleric
+Text: Flying, first strike
+Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of turn. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Settle the Score
+Mana Cost: {2}{B}{B}
+Card Type: Sorcery
+Text: Exile target creature. Put two loyalty counters on a planeswalker you control.
+ 
+
+Name: Shalai, Voice of Plenty
+Mana Cost: {3}{W}
+Card Type: Legendary Creature — Angel
+Text: Flying
+You, planeswalkers you control, and other creatures you control have hexproof.
+{4}{G}{G}: Put a +1/+1 counter on each creature you control.
+ 
+
+Name: Shanna, Sisay's Legacy
+Mana Cost: {G}{W}
+Card Type: Legendary Creature — Human Warrior
+Text: Shanna, Sisay's Legacy can't be the target of abilities your opponents control.
+Shanna gets +1/+1 for each creature you control.
+ 
+
+Name: Shield of the Realm
+Mana Cost: {2}
+Card Type: Artifact — Equipment
+Text: If a source would deal damage to equipped creature, prevent 2 of that damage.
+Equip {1}
+ 
+
+Name: Shivan Fire
+Mana Cost: {R}
+Card Type: Instant
+Text: Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Shivan Fire deals 2 damage to target creature. If this spell was kicked, it deals 4 damage to that creature instead.
+ 
+
+Name: Short Sword
+Mana Cost: {1}
+Card Type: Artifact — Equipment
+Text: Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+ 
+
+Name: Siege-Gang Commander
+Mana Cost: {3}{R}{R}
+Card Type: Creature — Goblin
+Text: When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.
+ 
+
+Name: Skirk Prospector
+Mana Cost: {R}
+Card Type: Creature — Goblin
+Text: Sacrifice a Goblin: Add {R}.
+ 
+
+Name: Skittering Surveyor
+Mana Cost: {3}
+Card Type: Artifact Creature — Construct
+Text: When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+ 
+
+Name: Skizzik
+Mana Cost: {3}{R}
+Card Type: Creature — Elemental
+Text: Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Trample, haste
+At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it.
+ 
+
+Name: Slimefoot, the Stowaway
+Mana Cost: {1}{B}{G}
+Card Type: Legendary Creature — Fungus
+Text: Whenever a Saproling you control dies, Slimefoot, the Stowaway deals 1 damage to each opponent and you gain 1 life.
+{4}: Create a 1/1 green Saproling creature token.
+ 
+
+Name: Slinn Voda, the Rising Deep
+Mana Cost: {6}{U}{U}
+Card Type: Legendary Creature — Leviathan
+Text: Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents.
+ 
+
+Name: Song of Freyalise
+Mana Cost: {1}{G}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Until your next turn, creatures you control gain "{T}: Add one mana of any color."
+III — Put a +1/+1 counter on each creature you control. Those creatures gain vigilance, trample, and indestructible until end of turn.
+ 
+
+Name: Sorcerer's Wand
+Mana Cost: {1}
+Card Type: Artifact — Equipment
+Text: Equipped creature has "{T}: This creature deals 1 damage to target player or planeswalker. If this creature is a Wizard, it deals 2 damage to that player or planeswalker instead."
+Equip {3}
+ 
+
+Name: Soul Salvage
+Mana Cost: {2}{B}
+Card Type: Sorcery
+Text: Return up to two target creature cards from your graveyard to your hand.
+ 
+
+Name: Sparring Construct
+Mana Cost: {1}
+Card Type: Artifact Creature — Construct
+Text: When Sparring Construct dies, put a +1/+1 counter on target creature you control.
+ 
+
+Name: Spore Swarm
+Mana Cost: {3}{G}
+Card Type: Instant
+Text: Create three 1/1 green Saproling creature tokens.
+ 
+
+Name: Sporecrown Thallid
+Mana Cost: {1}{G}
+Card Type: Creature — Fungus
+Text: Each other creature you control that's a Fungus or Saproling gets +1/+1.
+ 
+
+Name: Squee, the Immortal
+Mana Cost: {1}{R}{R}
+Card Type: Legendary Creature — Goblin
+Text: You may cast Squee, the Immortal from your graveyard or from exile.
+ 
+
+Name: Steel Leaf Champion
+Mana Cost: {G}{G}{G}
+Card Type: Creature — Elf Knight
+Text: Steel Leaf Champion can't be blocked by creatures with power 2 or less.
+ 
+
+Name: Stronghold Confessor
+Mana Cost: {B}
+Card Type: Creature — Human Cleric
+Text: Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Menace (This creature can't be blocked except by two or more creatures.)
+If Stronghold Confessor was kicked, it enters the battlefield with two +1/+1 counters on it.
+ 
+
+Name: Sulfur Falls
+Mana Cost: 
+
+Name: Swamp
+Mana Cost: 
+
+Name: Swamp
+Mana Cost: 
+
+Name: Swamp
+Mana Cost: 
+
+Name: Swamp
+Mana Cost: 
+
+Name: Sylvan Awakening
+Mana Cost: {2}{G}
+Card Type: Sorcery
+Text: Until your next turn, all lands you control become 2/2 Elemental creatures with reach, indestructible, and haste. They're still lands.
+ 
+
+Name: Syncopate
+Mana Cost: {X}{U}
+Card Type: Instant
+Text: Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+ 
+
+Name: Tatyova, Benthic Druid
+Mana Cost: {3}{G}{U}
+Card Type: Legendary Creature — Merfolk Druid
+Text: Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.
+ 
+
+Name: Teferi's Sentinel
+Mana Cost: {5}
+Card Type: Artifact Creature — Golem
+Text: As long as you control a Teferi planeswalker, Teferi's Sentinel gets +4/+0.
+ 
+
+Name: Teferi, Hero of Dominaria
+Mana Cost: {3}{W}{U}
+Card Type: Legendary Planeswalker — Teferi
+Text: +1: Draw a card. At the beginning of the next end step, untap up to two lands.
+−3: Put target nonland permanent into its owner's library third from the top.
+−8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."
+ 
+
+Name: Teferi, Timebender
+Mana Cost: {4}{W}{U}
+Card Type: Legendary Planeswalker — Teferi
+Text: +2: Untap up to one target artifact or creature.
+−3: You gain 2 life and draw two cards.
+−9: Take an extra turn after this one.
+ 
+
+Name: Tempest Djinn
+Mana Cost: {U}{U}{U}
+Card Type: Creature — Djinn
+Text: Flying
+Tempest Djinn gets +1/+0 for each basic Island you control.
+ 
+
+Name: Temporal Machinations
+Mana Cost: {2}{U}
+Card Type: Sorcery
+Text: Return target creature to its owner's hand. If you control an artifact, draw a card.
+ 
+
+Name: Territorial Allosaurus
+Mana Cost: {2}{G}{G}
+Card Type: Creature — Dinosaur
+Text: Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+When Territorial Allosaurus enters the battlefield, if it was kicked, it fights another target creature.
+ 
+
+Name: Teshar, Ancestor's Apostle
+Mana Cost: {3}{W}
+Card Type: Legendary Creature — Bird Cleric
+Text: Flying
+Whenever you cast a historic spell, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Tetsuko Umezawa, Fugitive
+Mana Cost: {1}{U}
+Card Type: Legendary Creature — Human Rogue
+Text: Creatures you control with power or toughness 1 or less can't be blocked.
+ 
+
+Name: Thallid Omnivore
+Mana Cost: {3}{B}
+Card Type: Creature — Fungus
+Text: {1}, Sacrifice another creature: Thallid Omnivore gets +2/+2 until end of turn. If a Saproling was sacrificed this way, you gain 2 life.
+ 
+
+Name: Thallid Soothsayer
+Mana Cost: {3}{B}
+Card Type: Creature — Fungus
+Text: {2}, Sacrifice a creature: Draw a card.
+ 
+
+Name: The Antiquities War
+Mana Cost: {3}{U}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+III — Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.
+ 
+
+Name: The Eldest Reborn
+Mana Cost: {4}{B}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each opponent sacrifices a creature or planeswalker.
+II — Each opponent discards a card.
+III — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+ 
+
+Name: The First Eruption
+Mana Cost: {2}{R}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — The First Eruption deals 1 damage to each creature without flying.
+II — Add {R}{R}.
+III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to each creature.
+ 
+
+Name: The Flame of Keld
+Mana Cost: {1}{R}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Discard your hand.
+II — Draw two cards.
+III — If a red source you control would deal damage to a permanent or player this turn, it deals that much damage plus 2 to that permanent or player instead.
+ 
+
+Name: The Mending of Dominaria
+Mana Cost: {3}{G}{G}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
+III — Return all land cards from your graveyard to the battlefield, then shuffle your graveyard into your library.
+ 
+
+Name: The Mirari Conjecture
+Mana Cost: {4}{U}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Return target instant card from your graveyard to your hand.
+II — Return target sorcery card from your graveyard to your hand.
+III — Until end of turn, whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.
+ 
+
+Name: Thorn Elemental
+Mana Cost: {5}{G}{G}
+Card Type: Creature — Elemental
+Text: You may have Thorn Elemental assign its combat damage as though it weren't blocked.
+ 
+
+Name: Thran Temporal Gateway
+Mana Cost: {4}
+Card Type: Legendary Artifact
+Text: {4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Tiana, Ship's Caretaker
+Mana Cost: {3}{R}{W}
+Card Type: Legendary Creature — Angel Artificer
+Text: Flying, first strike
+Whenever an Aura or Equipment you control is put into a graveyard from the battlefield, you may return that card to its owner's hand at the beginning of the next end step.
+ 
+
+Name: Timber Gorge
+Mana Cost: 
+
+Name: Time of Ice
+Mana Cost: {3}{U}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Tap target creature an opponent controls. It doesn't untap during its controller's untap step for as long as you control Time of Ice.
+III — Return all tapped creatures to their owners' hands.
+ 
+
+Name: Tolarian Scholar
+Mana Cost: {2}{U}
+Card Type: Creature — Human Wizard
+Text: 
+
+Name: Torgaar, Famine Incarnate
+Mana Cost: {6}{B}{B}
+Card Type: Legendary Creature — Avatar
+Text: As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+When Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down.
+ 
+
+Name: Tragic Poet
+Mana Cost: {W}
+Card Type: Creature — Human
+Text: {T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.
+ 
+
+Name: Traxos, Scourge of Kroog
+Mana Cost: {4}
+Card Type: Legendary Artifact Creature — Construct
+Text: Trample
+Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap during your untap step.
+Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Triumph of Gerrard
+Mana Cost: {1}{W}
+Card Type: Enchantment — Saga
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Put a +1/+1 counter on target creature you control with the greatest power.
+III — Target creature you control with the greatest power gains flying, first strike, and lifelink until end of turn.
+ 
+
+Name: Two-Headed Giant
+Mana Cost: {2}{R}{R}
+Card Type: Creature — Giant Warrior
+Text: Whenever Two-Headed Giant attacks, flip two coins. If both coins come up heads, Two-Headed Giant gains double strike until end of turn. If both coins come up tails, Two-Headed Giant gains menace until end of turn.
+ 
+
+Name: Untamed Kavu
+Mana Cost: {1}{G}
+Card Type: Creature — Kavu
+Text: Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Vigilance, trample
+If Untamed Kavu was kicked, it enters the battlefield with three +1/+1 counters on it.
+ 
+
+Name: Unwind
+Mana Cost: {2}{U}
+Card Type: Instant
+Text: Counter target noncreature spell. Untap up to three lands.
+ 
+
+Name: Urgoros, the Empty One
+Mana Cost: {4}{B}{B}
+Card Type: Legendary Creature — Specter
+Text: Flying
+Whenever Urgoros, the Empty One deals combat damage to a player, that player discards a card at random. If the player can't, you draw a card.
+ 
+
+Name: Urza's Ruinous Blast
+Mana Cost: {4}{W}
+Card Type: Legendary Sorcery
+Text: (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Exile all nonland permanents that aren't legendary.
+ 
+
+Name: Urza's Tome
+Mana Cost: {2}
+Card Type: Artifact
+Text: {3}, {T}: Draw a card. Then discard a card unless you exile a historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)
+ 
+
+Name: Valduk, Keeper of the Flame
+Mana Cost: {2}{R}
+Card Type: Legendary Creature — Human Shaman
+Text: At the beginning of combat on your turn, for each Aura and Equipment attached to Valduk, Keeper of the Flame, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.
+ 
+
+Name: Verdant Force
+Mana Cost: {5}{G}{G}{G}
+Card Type: Creature — Elemental
+Text: At the beginning of each upkeep, create a 1/1 green Saproling creature token.
+ 
+
+Name: Verix Bladewing
+Mana Cost: {2}{R}{R}
+Card Type: Legendary Creature — Dragon
+Text: Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Flying
+When Verix Bladewing enters the battlefield, if it was kicked, create Karox Bladewing, a legendary 4/4 red Dragon creature token with flying.
+ 
+
+Name: Vicious Offering
+Mana Cost: {1}{B}
+Card Type: Instant
+Text: Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.
+ 
+
+Name: Vodalian Arcanist
+Mana Cost: {1}{U}
+Card Type: Creature — Merfolk Wizard
+Text: {T}: Add {C}. Spend this mana only to cast an instant or sorcery spell.
+ 
+
+Name: Voltaic Servant
+Mana Cost: {2}
+Card Type: Artifact Creature — Construct
+Text: At the beginning of your end step, untap target artifact.
+ 
+
+Name: Warcry Phoenix
+Mana Cost: {3}{R}
+Card Type: Creature — Phoenix
+Text: Flying, haste
+Whenever you attack with three or more creatures, you may pay {2}{R}. If you do, return Warcry Phoenix from your graveyard to the battlefield tapped and attacking.
+ 
+
+Name: Warlord's Fury
+Mana Cost: {R}
+Card Type: Sorcery
+Text: Creatures you control gain first strike until end of turn.
+Draw a card.
+ 
+
+Name: Weatherlight
+Mana Cost: {4}
+Card Type: Legendary Artifact — Vehicle
+Text: Flying
+Whenever Weatherlight deals combat damage to a player, look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
+Crew 3
+ 
+
+Name: Weight of Memory
+Mana Cost: {3}{U}{U}
+Card Type: Sorcery
+Text: Draw three cards. Target player puts the top three cards of their library into their graveyard.
+ 
+
+Name: Whisper, Blood Liturgist
+Mana Cost: {3}{B}
+Card Type: Legendary Creature — Human Cleric
+Text: {T}, Sacrifice two creatures: Return target creature card from your graveyard to the battlefield.
+ 
+
+Name: Wild Onslaught
+Mana Cost: {3}{G}
+Card Type: Instant
+Text: Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Put a +1/+1 counter on each creature you control. If this spell was kicked, put two +1/+1 counters on each creature you control instead.
+ 
+
+Name: Windgrace Acolyte
+Mana Cost: {4}{B}
+Card Type: Creature — Cat Warrior
+Text: Flying
+When Windgrace Acolyte enters the battlefield, put the top three cards of your library into your graveyard and you gain 3 life.
+ 
+
+Name: Wizard's Lightning
+Mana Cost: {2}{R}
+Card Type: Instant
+Text: This spell costs {2} less to cast if you control a Wizard.
+Wizard's Lightning deals 3 damage to any target.
+ 
+
+Name: Wizard's Retort
+Mana Cost: {1}{U}{U}
+Card Type: Instant
+Text: This spell costs {1} less to cast if you control a Wizard.
+Counter target spell.
+ 
+
+Name: Woodland Cemetery
+Mana Cost: 
+
+Name: Yargle, Glutton of Urborg
+Mana Cost: {4}{B}
+Card Type: Legendary Creature — Frog Spirit
+Text: 
+
+Name: Yavimaya Sapherd
+Mana Cost: {2}{G}
+Card Type: Creature — Fungus
+Text: When Yavimaya Sapherd enters the battlefield, create a 1/1 green Saproling creature token.
+ 
+
+Name: Yawgmoth's Vile Offering
+Mana Cost: {4}{B}
+Card Type: Legendary Sorcery
+Text: (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Put up to one target creature or planeswalker card from a graveyard onto the battlefield under your control. Destroy up to one target creature or planeswalker. Exile Yawgmoth's Vile Offering.
+ 
+
+Name: Zahid, Djinn of the Lamp
+Mana Cost: {4}{U}{U}
+Card Type: Legendary Creature — Djinn
+Text: You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.
+Flying
+ 
+
+Name: Zhalfirin Void
+Mana Cost: 
+
